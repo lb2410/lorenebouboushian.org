@@ -4,6 +4,8 @@ name: REAL ARTIST STATEMENT
 position: 1
 ---
 
+![beep beep, who got the keyz to the jeep?](/assets/images/p1000652.jpg)
+
 # REAL ARTIST STATEMENT
 
 the women pick at each other’s flesh, spread their saliva, and reach their limbs rhythmically before they rollerblade away, leaving everyone confused and delighted
