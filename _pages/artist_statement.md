@@ -4,7 +4,7 @@ name: REAL ARTIST STATEMENT
 position: 1
 ---
 
-![beep beep, who got the keyz to the jeep?](/assets/images/p1000652.jpg)
+![beep beep, who got the keyz to the jeep?](assets/images/p1000652.jpg)
 
 # REAL ARTIST STATEMENT
 

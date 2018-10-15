@@ -17,7 +17,7 @@ title: lorenebouboushian.org
 email: hello@lorenebouboushian.org
 description: >- # this means to ignore newlines until "baseurl:"
   My work thrives in spaces between right and wrong, clear and obscure, structure and oblivion. Whether I am working on an absurdist punk opera, or a durational blind-folded duet, my range of collaborations is powered forward by asking the audience to live in these questions with me.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/lorenebouboushian.org" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lorenebouboushian
 github_username:  lorenebouboushian
