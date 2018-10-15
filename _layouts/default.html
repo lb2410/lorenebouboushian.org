@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <title>{% if page.title %} {{ page.title }} | {% endif %} {{ site.name }}</title>
+    <meta name="description" content="{{site.description}}"/>
+    <meta name="author" content="{{site.author}}"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/styles.css" />
+
+
+  </head>
+
+  <body class="hidden">
+
+    {% include header.html %}
+    {% include nav.html %}
+
+    <main class="fixed-margin">
+      
+      {{ content }}
+    
+    </main>
+
+    <!-- <script src="{{site.baseurl}}/assets/js/app.js"></script> -->
+  </body>
+</html>
