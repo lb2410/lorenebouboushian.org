@@ -2,26 +2,30 @@
 layout: default
 ---
 
+{% include header.html %}
+{% include nav.html %}
+
+<img src="assets/images/cropped-walter-wlodarczyk-2017-05-12-_87a1913.jpg" />
+
+
 <div class="home">
 
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
     <div class="post-list">
-      {%- for post in site.posts -%}
-      <div>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        
-        <h3>
+      {%- for post in site.posts -%}     
+        <h3 class="stickyNav">
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
-          <span class="post-meta">{{ post.date | date: date_format }}</span>
+          <span class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</span>
         </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </div>
+        <div class="post">
+          {%- if site.show_excerpts -%}
+            {{ post.excerpt }}
+          {%- endif -%}
+        </div>
       {%- endfor -%}
     </div>
 

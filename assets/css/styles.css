@@ -1,0 +1,168 @@
+/* global */
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+a, a:visited {
+  color: hotpink;
+  text-decoration: none;
+}
+
+a:hover, a.active {
+  color: #666;
+  text-decoration: underline;
+  transition: all 0.5s ease;
+  transition-property: color, fill;
+}
+
+img {
+  width: 100%;
+}
+
+.hidden {
+  display: none;
+}
+
+.stickyNav {
+  position: sticky;
+  background-color: white;
+  padding-left: 2em;
+}
+
+.post, .page {
+  margin: 2.5em;
+}
+
+/* header.html */
+
+header {
+  height: 100vh;
+}
+
+#headerLineDrawing, #subHeading, #keepItMovin {
+  position: relative;
+  top: 33vh;
+}
+
+#subHeading {
+  max-width: 100vw;
+  text-align: center;
+}
+#subHeading div {
+  display: inline-block;
+  font-size: 1.5em;
+  font-style: italic;
+  color: white;
+}
+
+#keepItMovin {
+  margin: 1em auto;
+  width: 0; 
+  height: 0; 
+  border-left: 25vh solid transparent;
+  border-right: 25vh solid transparent;
+  border-top: 25vh solid black;
+}
+
+.fadeIn {
+  animation-name: fadeInColor;
+  animation-duration: 3s;
+}
+@keyframes fadeInColor {
+  0% {
+    border-top-color: transparent;
+  }
+  100% {
+    border-top-color: black;
+  }
+}
+
+.blackHotpink {
+  animation-name: blackHotpinkColors;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+}
+@keyframes blackHotpinkColors {
+  0% {
+    border-top-color: black;
+    margin-top: 1em;
+  }
+  25% {
+    margin-top: 1.2em;
+  }
+  50% {
+    border-top-color: hotpink;
+    margin-top: 1em;
+  }
+  75% {
+    margin-top: 1.2em;
+  }
+  100% {
+    border-top-color: black;
+    margin-top: 1em;
+  }
+}
+
+/* nav.html */
+
+nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: middle;
+  font-weight: 700;
+  position: sticky;
+  top: 0;
+  background-color: white;
+}
+
+nav a {
+  margin: 0.5em 1em;
+}
+
+nav a.landing {
+  margin: 0.5em 0;
+}
+
+nav a:hover {
+  fill: hotpink;
+  text-decoration: none;
+}
+
+#navLineDrawing {
+  width: 44px;
+}
+
+/* main content */
+
+main {
+  margin: 1em;
+}
+
+.post-meta {
+  float: right;
+  margin-right: 2em;
+  font-size: 0.8em;
+  color: #666;
+}
+
+/* mobile stuffz */
+@media (max-width: 600px) {
+  nav {
+    position: static;
+  }
+  #lbOutline {
+    width: 100%;
+  }
+  nav a {
+    margin: 0 5px;
+  }
+  .stickyNav {
+    position: static;
+  }
+  .post, .page {
+    margin: 0.5em;
+  }
+}

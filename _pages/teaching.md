@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 name: TEACHING
 position: 4
 ---

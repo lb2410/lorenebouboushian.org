@@ -6,9 +6,7 @@ categories: stuff
 excerpt_separator: <!--more-->
 ---
 
-# SUMMER TIIIIIME
-
-`~What’s coming up?
+# `~What’s coming up?
 
 I will be performing at the AHA Festival of Progressive Arts in Santa Fe, New Mexico this September! Also, teaching this very special workshop at Spiderflower Activist Collective and doing an artist talk at Comrade TrueBridge. For more info, email me at the address at the bottom of this page!
 

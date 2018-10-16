@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 name: WRITING
 position: 6
 ---

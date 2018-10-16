@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 name: '“LORENE” ON PAPER'
 position: 5
 ---

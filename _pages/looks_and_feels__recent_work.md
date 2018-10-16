@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 name: LOOKS AND FEELS [[RECENT WORK]]
 position: 3
 ---

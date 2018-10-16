@@ -1,6 +1,6 @@
 ---
-layout: default
-name: REAL ARTIST STATEMENT
+layout: page
+name: ARTIST STATEMENT
 position: 1
 ---
 

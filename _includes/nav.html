@@ -1,8 +1,27 @@
 {%- if site.pages.size > 0 -%}
 <nav>
-  {%- for page in site.pages -%}
-  <a class="page-link" href="{{ page.url | relative_url }}">
-    {{ page.name | escape }}
+  {%- if page.url != '/' -%}
+  <a id="lbOutline" class="landing" href="{{site.baseurl}}/">
+    <div id="navLineDrawing">
+      <svg viewBox="0 0 44 26" xmlns="http://www.w3.org/2000/svg">
+        <g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-width="1" class="lines">
+            <path d="M 16.72 26.009 L 0 26.009 L 0 0.009 L 6.88 0.009 L 6.88 20.249 L 16.72 20.249 L 16.72 26.009 Z" />
+            <path d="M 32.547 26 L 22.387 26 L 22.387 0 L 31.747 0 C 33.107 0 34.387 0.1 35.587 0.3 C 36.787 0.5 37.827 0.84 38.707 1.32 C 39.587 1.8 40.287 2.46 40.807 3.3 C 41.327 4.14 41.587 5.2 41.587 6.48 C 41.587 7.04 41.507 7.607 41.347 8.18 C 41.187 8.753 40.967 9.3 40.687 9.82 C 40.407 10.34 40.067 10.8 39.667 11.2 C 39.267 11.6 38.814 11.893 38.307 12.08 L 38.307 12.24 C 39.56 12.613 40.62 13.287 41.487 14.26 C 42.354 15.233 42.787 16.587 42.787 18.32 C 42.787 19.653 42.514 20.807 41.967 21.78 C 41.42 22.753 40.687 23.553 39.767 24.18 C 38.847 24.807 37.76 25.267 36.507 25.56 C 35.254 25.853 33.934 26 32.547 26 Z M 29.267 5.28 L 29.267 10.16 L 31.587 10.16 C 32.707 10.16 33.534 9.92 34.067 9.44 C 34.6 8.96 34.867 8.32 34.867 7.52 C 34.867 6.72 34.6 6.147 34.067 5.8 C 33.534 5.453 32.707 5.28 31.587 5.28 L 29.267 5.28 Z M 29.267 15.2 L 29.267 20.72 L 32.067 20.72 C 34.734 20.72 36.067 19.76 36.067 17.84 C 36.067 16.88 35.74 16.2 35.087 15.8 C 34.434 15.4 33.427 15.2 32.067 15.2 L 29.267 15.2 Z" />
+
+          
+        </g>
+      </svg>
+    </div>  
+  </a>
+  {%- endif -%}
+  {%- assign sorted_pages = (site.pages | sort: 'position') -%}
+  {%- for site_page in sorted_pages -%}
+    {%- assign active = nil -%}
+    {%- if page.url == site_page.url -%}
+      {%- assign active = 'active' -%}
+    {%- endif -%}
+  <a class="{{active}}" href="{{ site_page.url | relative_url }}">
+    {{ site_page.name | escape }}
   </a>
   {%- endfor -%}
 </nav>

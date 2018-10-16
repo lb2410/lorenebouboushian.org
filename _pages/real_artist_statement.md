@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 name: REAL ARTIST STATEMENT
 position: 2
 ---
