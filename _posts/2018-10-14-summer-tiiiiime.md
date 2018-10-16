@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title:  "SUMMER TIIIIIME"
 date:   2018-10-14 19:43:43 -0400
 categories: stuff
