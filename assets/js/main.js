@@ -10,6 +10,12 @@ anime({
   loop: true
 });
 
+// prevent svg from loading before animation starts. 
+var headerLineDrawing = document.getElementById('headerLineDrawing');
+if(headerLineDrawing){
+  headerLineDrawing.classList.remove('hidden');
+}
+
 var navEl = document.querySelector('#lbOutline');
 if(navEl){
   function animateEl(duration, delay) {
