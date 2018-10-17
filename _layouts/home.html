@@ -8,28 +8,30 @@ layout: default
 <img src="assets/images/cropped-walter-wlodarczyk-2017-05-12-_87a1913.jpg" />
 
 
-<div class="home">
+<main>
+  <div class="home">
 
-  {{ content }}
+    {{ content }}
 
-  {%- if site.posts.size > 0 -%}
-    <div class="post-list">
-      {%- for post in site.posts -%}     
-        <h3 class="stickyNav">
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-          <span class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</span>
-        </h3>
-        <div class="post">
-          {%- if site.show_excerpts -%}
-            {{ post.excerpt }}
-          {%- endif -%}
-        </div>
-      {%- endfor -%}
-    </div>
+    {%- if site.posts.size > 0 -%}
+      <div class="post-list">
+        {%- for post in site.posts -%}     
+          <h3 class="stickyNav">
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+            <span class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</span>
+          </h3>
+          <div class="post">
+            {%- if site.show_excerpts -%}
+              {{ post.excerpt }}
+            {%- endif -%}
+          </div>
+        {%- endfor -%}
+      </div>
 
-    <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
-  {%- endif -%}
+      <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
+    {%- endif -%}
 
-</div>
+  </div>
+</main>

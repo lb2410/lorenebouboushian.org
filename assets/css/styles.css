@@ -6,7 +6,7 @@ html, body {
 }
 
 a, a:visited {
-  color: hotpink;
+  color: #f1f;
   text-decoration: none;
 }
 
@@ -23,6 +23,9 @@ img {
 
 .hidden {
   display: none;
+}
+.invisible {
+  visibility: hidden;
 }
 
 .stickyNav {
@@ -41,7 +44,7 @@ header {
   height: 100vh;
 }
 
-#headerLineDrawing, #subHeading, #keepItMovin {
+#headerLineDrawing, #subHeading {
   position: relative;
   top: 33vh;
 }
@@ -49,28 +52,45 @@ header {
 #subHeading {
   max-width: 100vw;
   text-align: center;
-}
-#subHeading div {
-  display: inline-block;
-  font-size: 1.5em;
+  font-size: 2em;
   font-style: italic;
-  color: white;
+}
+
+#keepItMovinContainer {
+  position: relative;
+  top: calc(66vh - 50px);
+  width: 100%;
 }
 
 #keepItMovin {
-  margin: 1em auto;
+  margin: 1.5em auto;
   width: 0; 
   height: 0; 
-  border-left: 25vh solid transparent;
-  border-right: 25vh solid transparent;
-  border-top: 25vh solid black;
+  border-left: 25px solid transparent;
+  border-right: 25px solid transparent;
+  border-top: 25px solid black;
 }
 
-.fadeIn {
-  animation-name: fadeInColor;
+.fadeToBlackBg {
+  animation-name: fadeToBlackBg;
+  animation-duration: 10s;
+  background-color: black;
+}
+@keyframes fadeToBlackBg {
+  0% {
+    background-color: white;
+  }
+  100% {
+    background-color: black;
+  }
+}
+
+
+.fadeInBorder {
+  animation-name: fadeInBorder;
   animation-duration: 3s;
 }
-@keyframes fadeInColor {
+@keyframes fadeInBorder {
   0% {
     border-top-color: transparent;
   }
@@ -81,7 +101,7 @@ header {
 
 .blackHotpink {
   animation-name: blackHotpinkColors;
-  animation-duration: 4s;
+  animation-duration: 2s;
   animation-iteration-count: infinite;
 }
 @keyframes blackHotpinkColors {
@@ -93,7 +113,7 @@ header {
     margin-top: 1.2em;
   }
   50% {
-    border-top-color: hotpink;
+    border-top-color: #f1f;
     margin-top: 1em;
   }
   75% {
@@ -105,12 +125,67 @@ header {
   }
 }
 
+.fadeToHotpinkColor {
+  animation-name: fadeToHotpinkColor;
+  animation-duration: 10s;
+  color: #f1f;
+}
+@keyframes fadeToHotpinkColor {
+  0% {
+    color: white;
+  }
+  100% {
+    color: #f1f;
+  }
+}
+
+.fadeToHotpinkNeon {
+  animation-name: fadeToHotpinkNeon;
+  animation-duration: 3s;
+  color: #f1f;
+  text-shadow:
+    0 0 5px #f1f,
+    0 0 10px #f1f,
+    0 0 20px #f1f,
+    0 0 40px #f1f,
+    0 0 80px #f1f,
+    0 0 90px #f1f,
+    0 0 100px #f1f,
+    0 0 150px #f1f;
+}
+@keyframes fadeToHotpinkNeon {
+  0% {
+    color: black;
+    text-shadow:
+      0 0 5px black,
+      0 0 10px black,
+      0 0 20px black,
+      0 0 40px black,
+      0 0 80px black,
+      0 0 90px black,
+      0 0 100px black,
+      0 0 150px black;
+  }
+  100% {
+    color: #f1f;
+    text-shadow:
+      0 0 5px #f1f,
+      0 0 10px #f1f,
+      0 0 20px #f1f,
+      0 0 40px #f1f,
+      0 0 80px #f1f,
+      0 0 90px #f1f,
+      0 0 100px #f1f,
+      0 0 150px #f1f;
+  }
+}
+
 /* nav.html */
 
 nav {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: middle;
   font-weight: 700;
   position: sticky;
@@ -127,7 +202,7 @@ nav a.landing {
 }
 
 nav a:hover {
-  fill: hotpink;
+  fill: #f1f;
   text-decoration: none;
 }
 
@@ -150,6 +225,9 @@ main {
 
 /* mobile stuffz */
 @media (max-width: 600px) {
+  #subHeading {
+    font-size: 1em;
+  }
   nav {
     position: static;
   }
