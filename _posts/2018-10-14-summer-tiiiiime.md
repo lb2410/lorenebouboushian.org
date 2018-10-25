@@ -5,7 +5,7 @@ date:   2018-10-14 19:43:43 -0400
 categories: stuff
 excerpt_separator: <!--more-->
 ---
-
+<!--more-->
 # `~What’s coming up?
 
 I will be performing at the AHA Festival of Progressive Arts in Santa Fe, New Mexico this September! Also, teaching this very special workshop at Spiderflower Activist Collective and doing an artist talk at Comrade TrueBridge. For more info, email me at the address at the bottom of this page!
@@ -41,4 +41,4 @@ I taught THIS WORKSHOP at the Glove, which I toured to Portland, Seattle, Boulde
 
 join my listserv by emailing lorene dot bouboushian at gmail dot com, and take care!
 
-<!--more-->
+
