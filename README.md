@@ -1,7 +1,5 @@
 # lorenebouboushian.org
 
-lorene bouboushian
-
 ## markdown stuff:
 
 links:
