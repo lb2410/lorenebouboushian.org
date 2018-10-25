@@ -12,4 +12,3 @@ position: 3
  
 
 
-join my listserv by emailing lorene dot bouboushian at gmail dot com, and take care!
