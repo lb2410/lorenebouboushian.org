@@ -5,9 +5,6 @@ layout: default
 {% include header.html %}
 {% include nav.html %}
 
-<img src="assets/images/cropped-walter-wlodarczyk-2017-05-12-_87a1913.jpg" />
-
-
 <main>
   <div class="home">
 
@@ -20,7 +17,7 @@ layout: default
             <a class="post-link" href="{{ post.url | relative_url }}">
               {{ post.title | escape }}
             </a>
-            <span class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</span>
+            
           </h3>
           <div class="post">
             {%- if site.show_excerpts -%}
