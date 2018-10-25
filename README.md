@@ -1,18 +1,20 @@
 # lorenebouboushian.org
 
-## markdown stuff:
+## markdown stuff
 
-links:
+[markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+### links
+
 `[whatever you want the link to say](https://futuredeath.agency)`
 
-images (replace `WHAT_EVER_IMAGE.jpg` with whatever image...)
+#### images (replace `WHAT_EVER_IMAGE.jpg` with whatever image...)  
+
 `![alt text](/lorenebouboushian.org/assets/images/WHAT_EVER_IMAGE.jpg)`
 
 upload images here: [/assets/images/](https://github.com/edwardsharp/lorenebouboushian.org/tree/master/assets/images)
 
-[markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-## useful directories:
+## directories
 
 [/_pages/](https://github.com/edwardsharp/lorenebouboushian.org/tree/master/_pages) main pages that will get added to the main navigation. 
 
