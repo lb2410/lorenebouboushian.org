@@ -12,7 +12,7 @@
 
 `![alt text](/lorenebouboushian.org/assets/images/WHAT_EVER_IMAGE.jpg)`
 
-upload images here: [/assets/images/](https://github.com/edwardsharp/lorenebouboushian.org/tree/master/assets/images)
+upload images here: [/assets/images/](https://github.com/edwardsharp/lorenebouboushian.org/upload/master/assets/images)
 
 ## directories
 
