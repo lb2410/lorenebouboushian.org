@@ -16,7 +16,9 @@ upload images here: [/assets/images/](https://github.com/edwardsharp/loreneboubo
 
 ## directories
 
-[/_pages/](https://github.com/edwardsharp/lorenebouboushian.org/tree/master/_pages) main pages that will get added to the main navigation. 
+[/_pages/](https://github.com/edwardsharp/lorenebouboushian.org/tree/master/_pages) every file in this directory will get added, as a link, to the main navigation. 
+
+to add a new page create a new .md file in the _pages/ directory named like: `WHATEVER.md`. 
 
 pages need this at the top (note the position is a number that sets the order it's positioned in the navigation):
 
