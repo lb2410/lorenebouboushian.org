@@ -3,7 +3,7 @@
 ## markdown stuff:
 
 links:
-`[whatever you want the link to say](https://futuredeath.agency)
+`[whatever you want the link to say](https://futuredeath.agency)`
 
 images (replace `WHAT_EVER_IMAGE.jpg` with whatever image...)
 `![alt text](/lorenebouboushian.org/assets/images/WHAT_EVER_IMAGE.jpg)`
