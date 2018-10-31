@@ -1,6 +1,6 @@
 ---
 layout: page
-name: REAL ARTIST STATEMENT
+name: ARTIST STATEMENT
 position: 2
 ---
 
@@ -20,4 +20,3 @@ This history complicates my relationship to how I should perform. So, I deal wit
 
 My work thrives in spaces between right and wrong, clear and obscure, structure and oblivion. Whether I am working on an absurdist punk opera, or a durational blind-folded duet, my range of collaborations is powered forward by asking the audience to live in these questions with me.
 
-photo credit Ian Deleon
