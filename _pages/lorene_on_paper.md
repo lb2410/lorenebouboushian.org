@@ -1,6 +1,6 @@
 ---
 layout: page
-name: '“LORENE” ON PAPER'
+name: '“ABOUT'
 position: 5
 ---
 
@@ -8,10 +8,12 @@ position: 5
 # "LORENE" ON PAPER
 In lieu of a CV….
 
-Lorene Bouboushian is a performance artist, dancer, vocalizer, educator, conceptualizer, and organizer, 1st generation Lebanese on one end, originally from rural Texas, who utilizes “self-exposure and vulnerability in real, risky ways” [CultureBot, 2011] and produces “thought-provoking commentary on social limits” [Minneapolis Star Tribune, 2016].
+Lorene Bouboushian is a genderqueer artist originally from rural Texas, with family ties to Lebanon and Armenia. They work within dance, experimental music/noise, and performance art. They build a rhizomatic practice through visible forays into performances and workshopping, and less visible forays into curating, writing, dialogue, modes of care and support, and resource sharing. They utilize  "self-exposure and vulnerability in real, risky ways" [CultureBot, 2011], and produce “thought-provoking commentary on social limits” [Minneapolis Star Tribune, 2016].
 
-She has shown work in Zagreb, Berlin (Month of Performance Art-Berlin), New York (Queer NY Festival, Dixon Place, DraftWork, JACK, Exponential Festival), Chicago (No Nation, Co-Prosperity Sphere, Learning Machine, Pinky Swear), Los Angeles (Pieter at the Hammer Museum), and various venues on tour to Madison, Milwaukee, Portland, Seattle, New Haven, Montreal, Harrisonburg, VA–among many others. She has received residencies through Fresh Tracks at New York Live Arts and Chez Bushwick.
+They have shared work in New York City at Dixon Place, JACK, Danspace Project, Issue Project Room, Center for Performance Research, and the Queens Museum. They have held residencies at New York Live Arts (Fresh Tracks) and Chez Bushwick, and currently are in residence at Movement Research. 
 
-She has had the huge honor of working for/learning from Yvonne Meier, luciana achugar, Melinda Ring, Bruno Isakovic, Lindsey Drury, Daria Faïn, and Kathy Westwater. Influential collaborators/communities include Social Health Performance Club, performance art duo Panoply Performance Lab (Esther Neff and Brian Mccorkle), performance artist Kaia Gilje, and musicians Couteau Sang (Toupee, Blood Licker), Jill Flanagan (Forced into Femininity), Valerie Kuehne and Matthew Gantt.
+They have also performed in Seattle, Madison, Athens, and Beirut, performing in festivals including New Genre Festival (Tulsa), Miami Performance International Festival, QueerNY and Queer Zagreb, Inverse Performance Art Festival, and Month of Performance Art-Berlin. They have shared their interdisciplinary teaching practice at universities in Kentucky, Beirut, and Mexico. They also curate interdisciplinary performance at the Glove in NYC.
 
-Lorene has taught interdisciplinary performance workshops in Athens, Greece; New York (CLASSCLASSCLASS, Get Your A$$ in Cla$$); Beirut, Lebanon (Nahnoo); and universities in Puebla, Mexico and Lexington, Kentucky. She regularly teaches healing arts classes at numerous public schools in New York City through Wingspan Arts, Movement Research, and Global Arts to Go.
+They have performed for Jill Sigman/thinkdance, Yvonne Meier, Melinda Ring, luciana achugar, Daria Fain, and Kathy Westwater. They are a former member of NYC based collectives XHOIR (organized by Colin Self), Feminist Art Group (organized by IV Castellanos), and Social Health Performance Club. They are currently leading the UNDOING AND DOING Social Practice Collective.
+
+
