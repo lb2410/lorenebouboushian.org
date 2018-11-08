@@ -7,6 +7,7 @@ position: 6
 # PRESS
 
 Press and Reviews:
+
 "Her solo emerged—from the floor, from her throat, from her personal and historical histories. It kept mushrooming outward, and pulling her witnesses in...The whole air around Lorene felt transformed. I felt implicated by her words, and like at the same time I was responsible for her safety."--[Stormy Budwig for Culturebot, Feb 2017](https://www.culturebot.org/2017/02/26906/overlap-intersections-and-emergence-in-dance-performance/)
 
 "ironic and humorous observations...a thought-provoking commentary on social limits"--[Caroline Palmer for Minneapolis Star Tribune, Aug 2016](http://www.startribune.com/as-metallica-raged-nearby-performance-artists-lit-their-own-fire-without-pyro/391047911/)
