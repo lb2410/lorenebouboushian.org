@@ -14,13 +14,17 @@ I always desire to teach people with a wide range of life practices. I have taug
 This work has spawned from three years of my performance workshops taking place in New York, Chicago, Puebla (MX), and Beirut. Recent workshops were produced through University of Kentucky-Lexington, where I was a guest artist, and The Exponential Festival. Past classes were at CLASSCLASSCLASS at the New Museum, as well as the Performancy Forum Quinquennial at Grace and GET YOUR A$$ IN CLA$$ at Abrons Art Center.
 
 3 workshop methods I am currently practicing:
+
 DESIRE/REVILE
+
 As an interdisciplinary, improvisational performer and workshop facilitator, I am captivated by the underlying motives for any action. In workshops and lab-based environments, often it is assumed that we should follow our “interests” or “intentions,” when in fact our in-the-moment actions are a result not of clear-cut decisions but our relationship to the organism of bodies, room and objects around us colliding with what’s inside us. What do we want and why? What if we derailed ourselves, worked with our own insincerity, faked ourselves out, played tricks? Is it possible to create a realm where as much as possible is valid and nothing is right? Bring comfortable clothes, an object you would like to play with and can share, and writing materials. 
 
 UNDOING
+
 UNDOING is a workshop that synthesizes my personal research and creative practice to support investigation by a wide audience of creatives and activists. For UNDOING, I recruited the methods for creating an unstable, fertle ground for creative play that I developed with DESIRE/REVILE, and shifted into a mode that questioned the end of this kind of exploration. I began with a central question: Can a quest for liberation, and a path toward resistance, begin with our flesh and blood, and the energies and histories we contain? our acts and queries as means of working toward what justice could look like. Participants began by reading specific texts (Claudia Rankine, James Baldwin, Jamaica Kincaid), then moved into somatic and physical exercises held by the guiding question. Finally, via writing and discussion, participants reflected on the desires and motives that arose in that kind of directed somatic state, and how they could apply them to activist practices outside the room. 
 
 A Body Is a Process
+
 How can queer people claim space and share space shamelessly, constantly questioning and discovering, celebrating, and enacting new parts of ourselves? In this workshop, we will widen the experience of living in and as our bodies, shed layers of inhibition, and move toward transgressive freedom.
 This workshop takes a playful, accessible approach to somatics and work with discussion, writing, voice, and movement. Together we'll create a space for accessing ourselves and interacting with each other in imaginative, open ways.
 
