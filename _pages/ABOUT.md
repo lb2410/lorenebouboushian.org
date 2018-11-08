@@ -1,6 +1,6 @@
 ---
 layout: page
-name: '“ABOUT'
+name: ABOUT
 position: 1
 ---
 
