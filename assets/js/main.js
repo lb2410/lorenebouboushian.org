@@ -1,14 +1,7 @@
-// var darkToLight = [];
-// for(var i=0;i<11;i++){
-//   darkToLight.push('hsl(0,0%,'+ i*10 +'%)');
-// }
-// var lightToDark = [];
-// for(var i=0;i<10;i++){
-//   lightToDark.push('hsl(0,0%,'+ i*10 +'%)');
-// }
 anime({
   targets: '#headerLineDrawing .lines path',
   strokeDashoffset: [anime.setDashoffset, 0],
+  
   easing: 'easeInOutSine',
   duration: 1500,
   delay: function(el, i) {
@@ -21,7 +14,7 @@ anime({
 var header = document.querySelector('header')
 if(header){
   header.classList.add('fadeToBlackBg');
-  document.getElementById('headerLineDrawing').classList.add('fadeToHotpinkColor');
+  // document.getElementById('headerLineDrawing').classList.add('fadeToHotpinkColor');
 }
 
 setTimeout(function(){
@@ -35,8 +28,8 @@ setTimeout(function(){
   var keepItMovin = document.getElementById('keepItMovin');
   if(keepItMovin){
     keepItMovin.classList.remove('hidden');
-    keepItMovin.classList.add('fadeInBorder');
-    setTimeout(function(){keepItMovin.classList.remove('fadeInBorder'); keepItMovin.classList.add('blackHotpink');}, 6000);
+    keepItMovin.classList.add('fadeToHotpinkColor');
+    // setTimeout(function(){keepItMovin.classList.remove('fadeInBorder'); keepItMovin.classList.add('blackHotpink');}, 6000);
   }
 
 }, 6000);

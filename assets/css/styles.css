@@ -3,6 +3,8 @@ html, body {
   margin: 0;
   padding: 0;
   font-family: 'Source Sans Pro', sans-serif;
+  background-color: black;
+  color: white;
 }
 
 a, a:visited {
@@ -30,7 +32,7 @@ img {
 
 .stickyNav {
   position: sticky;
-  background-color: white;
+  background-color: black;
   padding-left: 2em;
 }
 
@@ -49,6 +51,7 @@ header {
 #headerLineDrawing, #subHeading {
   position: relative;
   top: 33vh;
+  color: #f1f;
 }
 
 #subHeading {
@@ -59,24 +62,23 @@ header {
 }
 
 #keepItMovinContainer {
-  position: relative;
-  top: calc(66vh - 50px);
+  position: absolute;
+  bottom: 0;
   width: 100%;
+  text-align: center;
+  display: flex;
+  justify-content: center;
 }
 
 #keepItMovin {
-  margin: 1.5em auto;
-  width: 0; 
-  height: 0; 
-  border-left: 25px solid transparent;
-  border-right: 25px solid transparent;
-  border-top: 25px solid black;
-  box-sizing: border-box;
+  padding: 10px;
+  color: #f1f;
+  background-color: rgba(0,0,0,0.7);
 }
 
 .fadeToBlackBg {
   animation-name: fadeToBlackBg;
-  animation-duration: 10s;
+  animation-duration: 3s;
   background-color: black;
 }
 @keyframes fadeToBlackBg {
@@ -137,7 +139,7 @@ header {
 }
 @keyframes fadeToHotpinkColor {
   0% {
-    color: white;
+    color: rgba(0,0,0,0);
   }
   100% {
     color: #f1f;
@@ -160,16 +162,16 @@ header {
 }
 @keyframes fadeToHotpinkNeon {
   0% {
-    color: black;
+    color: rgba(0,0,0,0);
     text-shadow:
       /* 0 0 5px black, */
       /* 0 0 10px black, */
       /* 0 0 20px black, */
-      0 0 40px black,
-      0 0 80px black,
-      0 0 90px black,
-      0 0 100px black,
-      0 0 150px black;
+      0 0 40px rgba(0,0,0,0),
+      0 0 80px rgba(0,0,0,0),
+      0 0 90px rgba(0,0,0,0),
+      0 0 100px rgba(0,0,0,0),
+      0 0 150px rgba(0,0,0,0);
   }
   100% {
     color: #f1f;
@@ -195,7 +197,7 @@ nav {
   font-weight: 700;
   position: sticky;
   top: 0;
-  background-color: white;
+  background-color: black;
 }
 
 nav a {
@@ -219,6 +221,7 @@ nav a:hover {
 
 main {
   margin: 1em;
+  min-height: 100vh;
 }
 
 .post-meta {
