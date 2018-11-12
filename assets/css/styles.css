@@ -71,9 +71,10 @@ header {
 }
 
 #keepItMovin {
-  padding: 10px;
+  padding: 0 6px 6px 6px;
   color: #f1f;
   background-color: rgba(0,0,0,0.7);
+  border-radius: 5px 5px 0 0;
 }
 
 .fadeToBlackBg {
@@ -187,6 +188,37 @@ header {
   }
 }
 
+.fadeToTrans {
+  animation-name: fadeToTrans;
+  animation-duration: 3s;
+  color: rgba(0,0,0,0) !important;
+  text-shadow:
+    0 0 40px rgba(0,0,0,0),
+    0 0 80px rgba(0,0,0,0),
+    0 0 90px rgba(0,0,0,0),
+    0 0 100px rgba(0,0,0,0),
+    0 0 150px rgba(0,0,0,0);
+}
+@keyframes fadeToTrans {
+  0% {
+    color: #f1f;
+    text-shadow:
+      0 0 40px  #f1f,
+      0 0 80px  #f1f,
+      0 0 90px #f1f,
+      0 0 100px #f1f,
+      0 0 150px #f1f;
+  }
+  100% {
+    color: rgba(0,0,0,0);
+    text-shadow:
+      0 0 40px rgba(0,0,0,0),
+      0 0 80px rgba(0,0,0,0),
+      0 0 90px rgba(0,0,0,0),
+      0 0 100px rgba(0,0,0,0),
+      0 0 150px rgba(0,0,0,0);
+  }
+}
 /* nav.html */
 
 nav {
@@ -229,6 +261,16 @@ main {
   margin-right: 2em;
   font-size: 0.8em;
   color: #666;
+}
+
+footer {
+  text-align: right;
+  margin-right: 1vw;
+  margin-bottom: 2px;
+  font-size: 10px;
+}
+footer a {
+  text-decoration: none;
 }
 
 /* mobile stuffz */
