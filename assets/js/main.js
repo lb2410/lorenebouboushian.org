@@ -10,10 +10,72 @@ var anim = document.querySelector('#headerLineDrawing .lines path') && anime({
   }
 });
 
+var initCarousel = function() {
+  var carousel_l = document.querySelector('#carousel #l');
+  var carousel_r = document.querySelector('#carousel #r');
+  var carousel_index = 0;
+  var images = document.querySelectorAll('.imgWrapper');
+
+  carousel_r.classList.remove('hidden');
+  document.querySelector('#carousel #r .lines line') && anime({
+    targets: '#carousel #r .lines line',
+    strokeDashoffset: [anime.setDashoffset, 0],
+    easing: 'easeInOutSine',
+    duration: 1500,
+    direction: 'alternate',
+    loop: false,
+    delay: function(el, i) {
+      return i * 250
+    }
+  });
+
+  setTimeout(function(){
+    carousel_l.classList.remove('hidden');
+    document.querySelector('#carousel #l .lines line') && anime({
+      targets: '#carousel #l .lines line',
+      strokeDashoffset: [anime.setDashoffset, 0],
+      easing: 'easeInOutSine',
+      duration: 1500,
+      direction: 'alternate',
+      loop: false,
+      delay: function(el, i) {
+        return i * 250
+      }
+    });
+  }, 4000);
+
+  var carouselNav = function(direction) {
+    if(direction === 'LEFT'){
+      carousel_index -= 1;
+      if(carousel_index <= -1){
+        carousel_index = images.length - 1;
+      }
+    }else if(direction === 'RIGHT'){
+      carousel_index += 1;
+      if(carousel_index >= images.length){
+        carousel_index = 0
+      }
+    }
+    console.log('gonna anime dir',direction, ' target:','.imgWrapper:nth-child('+carousel_index+')');
+    images[carousel_index].scrollIntoView({ behavior: 'smooth'});
+  }
+
+  carousel_l.addEventListener('click', function(){carouselNav('LEFT')});
+  carousel_r.addEventListener('click', function(){carouselNav('RIGHT')});
+
+  var hammertime = new Hammer(document.querySelector('#carousel'));
+  hammertime.get('swipe').set({ direction: Hammer.DIRECTION_HORIZONTAL });
+  hammertime.on('swipeleft', function(){carouselNav('RIGHT')});
+  hammertime.on('swiperight', function(){carouselNav('LEFT')});
+
+}
+
 var header = document.querySelector('header')
 if(header){
   header.classList.add('fadeToBlackBg');
+  document.querySelectorAll('.imgWrapper').forEach(function(elem){elem.classList.add('fadeToBlackBg')});
   // document.getElementById('headerLineDrawing').classList.add('fadeToHotpinkColor');
+
 }
 var subHeading = document.getElementById('subHeading');
 if(subHeading){
@@ -26,7 +88,7 @@ if(subHeading){
     if(keepItMovin){
       keepItMovin.classList.remove('hidden');
       keepItMovin.classList.add('fadeToHotpinkColor');
-      // setTimeout(function(){keepItMovin.classList.remove('fadeInBorder'); keepItMovin.classList.add('blackHotpink');}, 6000);
+      setTimeout(function(){keepItMovin.classList.add('fadeToBlackBg');}, 6000);
     }
 
   }, 6000);
@@ -38,6 +100,9 @@ if(subHeading){
       anim.play();
       anim.reverse();
     }
+    setTimeout(function(){
+      initCarousel();
+    }, 1000);
   }, 12000);
 }
 
