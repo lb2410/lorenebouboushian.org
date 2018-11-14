@@ -14,6 +14,8 @@
 
 upload images here: [/assets/images/](https://github.com/edwardsharp/lorenebouboushian.org/upload/master/assets/images)
 
+upload carousel images to the [/assets/images/carousel/](https://github.com/edwardsharp/lorenebouboushian.org/upload/master/assets/images/carousel) directory. note that images are displayed in alpha/numeric order so name yr images like `0.jpg` `1.png` `666.gif` and so on.
+
 ## directories
 
 [/_pages/](https://github.com/edwardsharp/lorenebouboushian.org/tree/master/_pages) every file in this directory will get added, as a link, to the main navigation. 
