@@ -34,7 +34,7 @@
     <div id="content">
         {% for image in site.static_files %}
           {% if image.path contains 'images/carousel' %}
-            <div class="imgWrapper" style="background:url('{{ site.baseurl }}{{ image.path }}');background-size:cover;background-repeat:no-repeat;background-position:center;">
+            <div class="imgWrapper" style="background:url('{{ site.baseurl }}{{ image.path }}');background-repeat:no-repeat;background-position:center;">
             </div>
           {% endif %}
         {% endfor %}

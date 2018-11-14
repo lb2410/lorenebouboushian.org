@@ -103,6 +103,7 @@ header {
   display: flex;
   justify-content: center;
   text-align: center; /* well, mostly flex does this */
+  background-size: contain!important;
 }
 
 #subHeading {

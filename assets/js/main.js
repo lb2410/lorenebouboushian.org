@@ -115,7 +115,6 @@ if(subHeading){
     }
 
   }, 6000);
-  initCarousel();
   setTimeout(function(){
     subHeading.classList.remove('fadeToHotpinkNeon');
     subHeading.classList.add('fadeToTrans');
@@ -124,12 +123,10 @@ if(subHeading){
       anim.reverse();
     }
     setTimeout(function(){
-      // initCarousel();
+      initCarousel();
     }, 1000);
   }, 12000);
 }
-
-
 
 // prevent svg from loading before animation starts. 
 var headerLineDrawing = document.getElementById('headerLineDrawing');
