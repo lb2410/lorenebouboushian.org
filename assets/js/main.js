@@ -56,7 +56,6 @@ var initCarousel = function() {
         carousel_index = 0
       }
     }
-    console.log('gonna anime dir',direction, ' target:','.imgWrapper:nth-child('+carousel_index+')');
     images[carousel_index].scrollIntoView({ behavior: 'smooth'});
   }
 
@@ -68,6 +67,30 @@ var initCarousel = function() {
   hammertime.on('swipeleft', function(){carouselNav('RIGHT')});
   hammertime.on('swiperight', function(){carouselNav('LEFT')});
 
+  var last_known_scroll_position = 0;
+  var ticking = false;
+  function onWindowScroll(scroll_pos) {
+    // this is kinda dumb :/ 
+    if(scroll_pos > window.outerHeight / 6){
+      document.querySelectorAll('#carousel #l,#carousel #r').forEach(function(elem){
+        elem.style.position = 'absolute';
+      });
+    }else{
+      document.querySelectorAll('#carousel #l,#carousel #r').forEach(function(elem){
+        elem.style.position = 'fixed';
+      });
+    }    
+  }
+  window.addEventListener('scroll', function(e) {
+    last_known_scroll_position = window.scrollY;
+    if (!ticking) {
+      window.requestAnimationFrame(function() {
+        onWindowScroll(last_known_scroll_position);
+        ticking = false;
+      });
+      ticking = true;
+    }
+  });
 }
 
 var header = document.querySelector('header')
@@ -92,7 +115,7 @@ if(subHeading){
     }
 
   }, 6000);
-
+  initCarousel();
   setTimeout(function(){
     subHeading.classList.remove('fadeToHotpinkNeon');
     subHeading.classList.add('fadeToTrans');
@@ -101,7 +124,7 @@ if(subHeading){
       anim.reverse();
     }
     setTimeout(function(){
-      initCarousel();
+      // initCarousel();
     }, 1000);
   }, 12000);
 }
