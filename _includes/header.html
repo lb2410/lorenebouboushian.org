@@ -22,7 +22,32 @@
       </g>
     </svg>
   </div>
-
+  <div id="carousel">
+    <div id="l" class="hidden">
+      <svg viewBox="133 106 80 150" width="80" height="150" xmlns="http://www.w3.org/2000/svg">
+        <g transform="matrix(-1, 0, 0, -1, 502.210236, 362.523773)" class="lines">
+          <line style="stroke-linecap: round; stroke-miterlimit: 1; stroke-width: 3px; stroke: rgb(255, 17, 255);" x1="279.268" y1="145.503" x2="379.268" y2="145.124" transform="matrix(0.707107, 0.707107, -0.707107, 0.707107, 199.192527, -190.266301)"/>
+          <line style="stroke-linecap: round; stroke-miterlimit: 1; stroke: rgb(255, 17, 255); stroke-width: 3px;" x1="279.515" y1="216.225" x2="379.515" y2="215.846" transform="matrix(0.707107, -0.707107, 0.707107, 0.707107, -56.247453, 296.277634)"/>
+        </g>
+      </svg>
+    </div>
+    <div id="content">
+        {% for image in site.static_files %}
+          {% if image.path contains 'images/carousel' %}
+            <div class="imgWrapper" style="background:url('{{ site.baseurl }}{{ image.path }}');background-repeat:no-repeat;background-position:center;">
+            </div>
+          {% endif %}
+        {% endfor %}
+    </div>
+    <div id="r" class="hidden">
+      <svg viewBox="133 106 80 150" width="80" height="150" xmlns="http://www.w3.org/2000/svg">
+        <g transform="matrix(1, 0, 0, 1, -156.530594, 0.279335)" class="lines">
+          <line style="stroke-linecap: round; stroke-miterlimit: 1; stroke-width: 3px; stroke: rgb(255, 17, 255);" x1="279.268" y1="145.503" x2="379.268" y2="145.124" transform="matrix(0.707107, 0.707107, -0.707107, 0.707107, 199.192527, -190.266301)"/>
+          <line style="stroke-linecap: round; stroke-miterlimit: 1; stroke: rgb(255, 17, 255); stroke-width: 3px;" x1="279.515" y1="216.225" x2="379.515" y2="215.846" transform="matrix(0.707107, -0.707107, 0.707107, 0.707107, -56.247453, 296.277634)"/>
+        </g>
+      </svg>
+    </div>
+  </div>
   <div id="subHeading" class="invisible">
     collaborative performance artist
   </div>
