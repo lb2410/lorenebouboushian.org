@@ -10,41 +10,23 @@ var anim = document.querySelector('#headerLineDrawing .lines path') && anime({
   }
 });
 
+var carouselInterval;
+var carouselNav;
+
+var setCarouselInterval = function() {
+  // automate carousel image changes
+  carouselInterval = setInterval(function(){
+    carouselNav('RIGHT');
+  }, 6660);   
+}
+
 var initCarousel = function() {
-  var carousel_l = document.querySelector('#carousel #l');
-  var carousel_r = document.querySelector('#carousel #r');
   var carousel_index = 0;
   var images = document.querySelectorAll('.imgWrapper');
 
-  carousel_r.classList.remove('hidden');
-  document.querySelector('#carousel #r .lines line') && anime({
-    targets: '#carousel #r .lines line',
-    strokeDashoffset: [anime.setDashoffset, 0],
-    easing: 'easeInOutSine',
-    duration: 1500,
-    direction: 'alternate',
-    loop: false,
-    delay: function(el, i) {
-      return i * 250
-    }
-  });
-
-  setTimeout(function(){
-    carousel_l.classList.remove('hidden');
-    document.querySelector('#carousel #l .lines line') && anime({
-      targets: '#carousel #l .lines line',
-      strokeDashoffset: [anime.setDashoffset, 0],
-      easing: 'easeInOutSine',
-      duration: 1500,
-      direction: 'alternate',
-      loop: false,
-      delay: function(el, i) {
-        return i * 250
-      }
-    });
-  }, 4000);
-
-  var carouselNav = function(direction) {
+  carouselNav = function(direction) {
+    clearInterval(carouselInterval);
+    setCarouselInterval();
     if(direction === 'LEFT'){
       carousel_index -= 1;
       if(carousel_index <= -1){
@@ -59,46 +41,28 @@ var initCarousel = function() {
     images[carousel_index].scrollIntoView({ behavior: 'smooth'});
   }
 
-  carousel_l.addEventListener('click', function(){carouselNav('LEFT')});
-  carousel_r.addEventListener('click', function(){carouselNav('RIGHT')});
+  window.onkeyup = function(e) {
+    if(e.key == 'ArrowLeft') {
+      carouselNav('LEFT');
+    } else if( e.key == 'ArrowRight') {
+      carouselNav('RIGHT');
+    }
+  }
 
   var hammertime = new Hammer(document.querySelector('#carousel'));
   hammertime.get('swipe').set({ direction: Hammer.DIRECTION_HORIZONTAL });
   hammertime.on('swipeleft', function(){carouselNav('RIGHT')});
   hammertime.on('swiperight', function(){carouselNav('LEFT')});
 
-  var last_known_scroll_position = 0;
-  var ticking = false;
-  function onWindowScroll(scroll_pos) {
-    // this is kinda dumb :/ 
-    if(scroll_pos > window.outerHeight / 6){
-      document.querySelectorAll('#carousel #l,#carousel #r').forEach(function(elem){
-        elem.style.position = 'absolute';
-      });
-    }else{
-      document.querySelectorAll('#carousel #l,#carousel #r').forEach(function(elem){
-        elem.style.position = 'fixed';
-      });
-    }    
-  }
-  window.addEventListener('scroll', function(e) {
-    last_known_scroll_position = window.scrollY;
-    if (!ticking) {
-      window.requestAnimationFrame(function() {
-        onWindowScroll(last_known_scroll_position);
-        ticking = false;
-      });
-      ticking = true;
-    }
-  });
+  setTimeout(function(){
+    carouselNav('RIGHT');
+  }, 4000);
 }
 
 var header = document.querySelector('header')
 if(header){
   header.classList.add('fadeToBlackBg');
   document.querySelectorAll('.imgWrapper').forEach(function(elem){elem.classList.add('fadeToBlackBg')});
-  // document.getElementById('headerLineDrawing').classList.add('fadeToHotpinkColor');
-
 }
 var subHeading = document.getElementById('subHeading');
 if(subHeading){
