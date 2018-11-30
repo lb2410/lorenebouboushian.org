@@ -11,8 +11,8 @@ I consider my class a powerful way to shift roles of student and facilitator/tea
 My interdisciplinary workshops combine voice, somatic/body based principles for performance, and work with performative objects. I always desire to teach people with a wide range of life practices. I have taught university students, performance artists, singers, theorists, babies, poets, families. My aim is to create contact points between different kinds of people and experiences, and a temporary sense of community.
 
 Past teaching engagements:
-Universidad de Las Americas Puebla visiting artist
 
+Universidad de Las Americas Puebla visiting artist
 
 Brooklyn International Performance Art Festival
 
