@@ -12,16 +12,28 @@ My interdisciplinary workshops combine voice, somatic/body based principles for 
 
 Past teaching engagements:
 Universidad de Las Americas Puebla visiting artist
+
+
 Brooklyn International Performance Art Festival
+
 CLASSCLASSCLASS Dance Teaching Initiative, NYC
+
 NAHNOO Social Advocacy NGO, Beirut
+
 Colorado Queer Yoga Project, Boulder
+
 Lacuna Arts Space, Portland
+
 Studio Current, Seattle
+
 Performancy Forum, Brooklyn
+
 University of Kentucky—Lexington visiting artist
+
 The Exponential Festival, Brooklyn
+
 Just Situations Conference, Brooklyn
+
 Spiderflower Activist Collective in Santa Fe, NM
 
 3 workshop methods I am currently practicing:
