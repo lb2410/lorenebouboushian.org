@@ -8,16 +8,31 @@ position: 4
 
 I consider my class a powerful way to shift roles of student and facilitator/teacher. Using somatic visualization and exercises as a starting point, we confront our bodies and experience vocalizing as expansive resonance, movement as creature-like transformation, and performance as social disturbance. I create a space for improvisation that is both safe and dangerous: safe for the full expression and observation of the self, and an open portal to express dangerous parts of oneself–the dark, rebellious, and derelict. In this context, I make clear that there are no assumed boundaries or rules, and I instruct as I participate, breaking the barrier between student and teacher.
 
-My interdisciplinary workshops combine voice, somatic/body based principles for performance, and work with performative objects. 
-I always desire to teach people with a wide range of life practices. I have taught university students in Beirut, Lebanon (NAHNOO), Puebla, Mexico (UDLAP), and University of Kentucky-Lexington, as well as performance artists, singers, theorists, babies, poets, families. My aim is to create contact points between different kinds of people and experiences, and a temporary sense of community.
+My interdisciplinary workshops combine voice, somatic/body based principles for performance, and work with performative objects. I always desire to teach people with a wide range of life practices. I have taught university students, performance artists, singers, theorists, babies, poets, families. My aim is to create contact points between different kinds of people and experiences, and a temporary sense of community.
 
-This work has spawned from three years of my performance workshops taking place in New York, Chicago, Puebla (MX), and Beirut. Recent workshops were produced through University of Kentucky-Lexington, where I was a guest artist, and The Exponential Festival. Past classes were at CLASSCLASSCLASS at the New Museum, as well as the Performancy Forum Quinquennial at Grace and GET YOUR A$$ IN CLA$$ at Abrons Art Center.
+Past teaching engagements:
+Universidad de Las Americas Puebla visiting artist
+Brooklyn International Performance Art Festival
+CLASSCLASSCLASS Dance Teaching Initiative, NYC
+NAHNOO Social Advocacy NGO, Beirut
+Colorado Queer Yoga Project, Boulder
+Lacuna Arts Space, Portland
+Studio Current, Seattle
+Performancy Forum, Brooklyn
+University of Kentucky—Lexington visiting artist
+The Exponential Festival, Brooklyn
+Just Situations Conference, Brooklyn
+Spiderflower Activist Collective in Santa Fe, NM
 
 3 workshop methods I am currently practicing:
 
 DESIRE/REVILE
 
-As an interdisciplinary, improvisational performer and workshop facilitator, I am captivated by the underlying motives for any action. In workshops and lab-based environments, often it is assumed that we should follow our “interests” or “intentions,” when in fact our in-the-moment actions are a result not of clear-cut decisions but our relationship to the organism of bodies, room and objects around us colliding with what’s inside us. What do we want and why? What if we derailed ourselves, worked with our own insincerity, faked ourselves out, played tricks? Is it possible to create a realm where as much as possible is valid and nothing is right? Bring comfortable clothes, an object you would like to play with and can share, and writing materials. 
+In workshops and lab-based environments, it is often assumed that we should follow our “interests” or “intentions,” when in fact our in-the-moment actions are a result not of clear-cut decisions but our relationship to the organism of bodies, room and objects around us colliding with what’s inside us. What do we want and why? What if we derailed ourselves, worked with our own insincerity, faked ourselves out, played tricks? Is it possible to create a realm where choice-making and motives are material to be constantly warped and re-routed?
+
+We will begin with somatic visualizations of the body to access playful work with voice, movement, and objects. We will then work in solo, partnered, and group improvisation scores, working together to examine and be bold in our choices. In this way, the class will serve as a radically open space for the uncomfortable to arise and bring about the new.
+
+Over the course of the workshop, will find all of the nooks and crannies in our class organism. We will seek to create a realm outside of culturally constructed notions of value, performance, art objects. Our days will range from the vigorous to the insipid, and we will maintain interest in every mood we encounter.
 
 UNDOING
 
