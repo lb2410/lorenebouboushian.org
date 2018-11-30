@@ -32,7 +32,7 @@ In workshops and lab-based environments, it is often assumed that we should foll
 
 We will begin with somatic visualizations of the body to access playful work with voice, movement, and objects. We will then work in solo, partnered, and group improvisation scores, working together to examine and be bold in our choices. In this way, the class will serve as a radically open space for the uncomfortable to arise and bring about the new.
 
-Over the course of the workshop, will find all of the nooks and crannies in our class organism. We will seek to create a realm outside of culturally constructed notions of value, performance, art objects. Our days will range from the vigorous to the insipid, and we will maintain interest in every mood we encounter.
+Over the course of the workshop, will find all of the nooks and crannies in our class organism. We will seek to create a realm outside of culturally constructed notions of value, performance, art objects. Our moments will range from the vigorous to the insipid, and we will maintain interest in every mood we encounter.
 
 UNDOING
 
