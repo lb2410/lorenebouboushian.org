@@ -12,6 +12,7 @@ My interdisciplinary workshops combine voice, somatic/body based principles for 
 
 Past teaching engagements:
 
+
 Universidad de Las Americas Puebla visiting artist
 
 Brooklyn International Performance Art Festival
