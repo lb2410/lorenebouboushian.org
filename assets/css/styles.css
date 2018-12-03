@@ -43,6 +43,8 @@ img {
 /* header.html */
 
 header {
+  position: relative;
+  top: -36px;
   height: 100vh;
   /* background: url('../images/cropped-walter-wlodarczyk-2017-05-12-_87a1913.jpg');
   background-size: cover; */
@@ -256,6 +258,7 @@ nav {
   position: sticky;
   top: 0;
   background-color: black;
+  z-index: 2;
 }
 
 nav a {
