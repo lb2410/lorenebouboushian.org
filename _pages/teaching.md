@@ -23,7 +23,7 @@ NAHNOO Social Advocacy NGO, Beirut
 
 Colorado Queer Yoga Project, Boulder
 
-Lacuna Arts Space, Portland
+[LACUNA](http://lacuna.club/), Portland
 
 Studio Current, Seattle
 
