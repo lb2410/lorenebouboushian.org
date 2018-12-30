@@ -41,6 +41,10 @@ img {
   margin: 2.5em;
 }
 
+.page * {
+  max-width: 95vw;
+}
+
 /* header.html */
 
 header {
