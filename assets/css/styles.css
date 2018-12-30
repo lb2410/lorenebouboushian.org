@@ -49,7 +49,7 @@ img {
 
 header {
   position: relative;
-  top: -36px;
+  /* top: -36px; */
   height: 100vh;
   /* background: url('../images/cropped-walter-wlodarczyk-2017-05-12-_87a1913.jpg');
   background-size: cover; */
@@ -83,7 +83,7 @@ header {
   display: flex;
   justify-content: center;
   text-align: center; /* well, mostly flex does this */
-  background-size: contain!important;
+  background-size: cover !important;
 }
 
 #subHeading {
@@ -305,7 +305,7 @@ footer a {
   nav {
     position: static;
     /* flex-direction: column; */
-    margin-left: 0.5em;
+    margin: 0 0.5em;
     font-size: 1.5em;
     justify-content: space-between;
 
@@ -324,5 +324,10 @@ footer a {
   }
   .post, .page {
     margin: 0.5em;
+  }
+
+  #carousel .imgWrapper {
+    background-repeat: repeat;
+    background-size: cover!important;
   }
 }
