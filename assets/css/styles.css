@@ -31,6 +31,7 @@ img {
 }
 
 .stickyNav {
+  position: -webkit-sticky;
   position: sticky;
   background-color: black;
   padding-left: 2em;
@@ -88,21 +89,8 @@ header {
   font-style: italic;
 }
 
-#keepItMovinContainer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  text-align: center;
-  display: flex;
-  justify-content: center;
-}
-
-#keepItMovin {
-  padding: 0 6px 6px 6px;
-  color: #f1f;
-  /* background-color: rgba(0,0,0,0.7); */
-  border-radius: 5px 5px 0 0;
-  font-size: 0.8em;
+#subHeading div:first-child {
+  margin-bottom: 20vh;
 }
 
 .fadeToBlackBg {
@@ -255,10 +243,11 @@ nav {
   justify-content: space-around;
   align-items: middle;
   font-weight: 700;
+  position: -webkit-sticky;
   position: sticky;
   top: 0;
   background-color: black;
-  z-index: 2;
+  z-index: 3;
 }
 
 nav a {
@@ -276,6 +265,7 @@ nav a:hover {
 
 #navLineDrawing {
   width: 44px;
+  display: inline-block;
 }
 
 /* main content */
@@ -310,6 +300,11 @@ footer a {
   }
   nav {
     position: static;
+    flex-direction: column;
+    margin-left: 0.5em;
+  }
+  nav.homeNav{
+    position: absolute;
   }
   #lbOutline {
     width: 100%;

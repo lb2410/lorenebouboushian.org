@@ -1,5 +1,5 @@
 {%- if site.pages.size > 0 -%}
-<nav>
+<nav {% if page.url == '/' %} class="homeNav"{% endif %}>
   {%- if page.url != '/' -%}
   <a id="lbOutline" class="landing" href="{{site.baseurl}}/">
     <div id="navLineDrawing">

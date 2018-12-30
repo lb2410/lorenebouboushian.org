@@ -84,26 +84,8 @@ if(subHeading){
     subHeading.classList.remove('invisible');
     subHeading.classList.add('fadeToHotpinkNeon');
     subHeading.classList.add('neon');
-
-    var keepItMovin = document.getElementById('keepItMovin');
-    if(keepItMovin){
-      keepItMovin.classList.remove('hidden');
-      keepItMovin.classList.add('fadeToHotpinkColor');
-      setTimeout(function(){keepItMovin.classList.add('fadeToBlackBg');}, 6000);
-    }
-
+    initCarousel();
   }, 6000);
-  setTimeout(function(){
-    subHeading.classList.remove('fadeToHotpinkNeon');
-    subHeading.classList.add('fadeToTrans');
-    if(anim){
-      anim.play();
-      anim.reverse();
-    }
-    setTimeout(function(){
-      initCarousel();
-    }, 1000);
-  }, 12000);
 }
 
 // prevent svg from loading before animation starts. 
