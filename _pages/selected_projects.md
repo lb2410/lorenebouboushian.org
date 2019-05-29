@@ -4,6 +4,8 @@ name: SELECTED PROJECTS
 position: 3
 ---
 
+SELECTED PROJECTS
+
 [extent of explosive lament] at the Exponential Festival; performances at [The Brick Theater](https://vimeo.com/201165811) and [Center for Performance Research](https://vimeo.com/245470176), New York, NY, January 2017
 
 [they pay off their genocide in food stamps](https://youtu.be/ju_iLcaOY7k?t=721) at Movement Research at the Judson Church, New York, NY, May 2018
