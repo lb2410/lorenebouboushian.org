@@ -4,66 +4,32 @@ name: WRITING
 position: 5
 ---
 
-Horrifying fitzgeralding web
-of constant bleached connection
-through human beings out to their cores
-their cores exist outside their bodies now
-their cores are empty
+i wonder what it’s like to hold one of your organs in your own hands 
+study it by torch light
+like scripture, beating and cleaning and heinous
+sounds you cannot hear that your organs only make when they are inside you
+once you take them out only we can hear them, and you are left all speckled and pastel
+easter egg, dumb dummy
 
-horrifying protection that only exists
-to make others vomit themselves up everyday
+you can look down and follow the lines of the wood grains on each plank of floor
+but what you need is an ultimatum and here i’ll give it to you right: 
+come see me after class with a pitiless rage.
+put queries aside and let me study the place where teeth and gums meet
+suggest how you might improve yourself, give me a grade i can assign to you.
 
-that is what it's like in a colony society, with one heart
-sutured
-suture it every time it's touched
+i’ll piss my pants and show you the stain just so you know i’m sinking yet enthroned at every minute
 
-the body, wood
-we carve the body
-we carve the body so that the blood stains it
-We are Dyed in the Color of our Own Blood.
+(you time these meetings and average them out later) 
 
-We take steps.
-Can we become the myths of our own making? Do we actually desire to?
-We needn't wonder
+(you use an old Texas Instruments calculator, the kind Apolonia’s cheeto crumbs would fall into the keys of, and we would do everything and anything to make these machines cheat for us) 
 
-as tradition passed down, a sickly, hellfired, and neon
-hellfired, sickly, and neon
-sticking intimately to the linings
+(world with no end until you hit the empty lots they’ll never sell but probably held lynchings at back in the day, and you wonder why they don’t leave their houses)
 
-dripping down the inner walls
-of Dyed, Stained Bodies
+sensate, our spirals not broken but just gapped and vacuuming
 
-organs
-tied on with a velcro so loose, they almost immediately fall off
-replaced with the materials one makes a telephone out of
-so that we can be free
-
-rubber
-
-the mother coyote
-now picks up her cub, by the leg
-the cub hits its head and dies
-
-the child with a slingshot, is not alone
-alone would be good
-she is smothered so that no one can see her
-
-real neon
-is now a tube full of lights
-bloodied, smeared
-
-streetlight lights a tree
-do you like to look at that treeQUIET
-what do you want to hear while you look at that tree
-“I'd do anything, for youuuu, in the dark”
-“I”d do anything for you, in the dark”
+-----
 
 halfway between here and there is just the ocean
-
-when they put that whale in a cage,
-she knocked her head against her glass cage,
-until she died....
-they bury their dead
 
 The cat underneath the Prozac sign IS NOT MODERATE. It can't be in order to survive. 
 This is what it feels like to survive with five hearts: spread out, untamed.
@@ -95,3 +61,80 @@ But the important thing is that he didn't make a farce of you. And somehow, that
 All the world is a bachelorette party. Batman-themed bachelorette. And the whole party, everything in the party, 
 is made out of things you could make a telephone out of. And everyone loves it, everyone's having a great time. 
 And those who couldn't make it are just so bummed they couldn't be there.
+
+-----
+
+Today we lost the ancestral land. The land given to the Armenians in Beirut as refugees after the genocide. The land funded by European nations who cared enough to give us crumbs from the table.
+
+
+We didn't lose entirely. Rather, we sold it for a settlement that we will invest in order to survive.
+
+
+Because no one wants my uncle's jewelry anymore; no one cares for his craft.
+
+
+Because my cousins can only make so much with community college Associates degrees.
+
+
+Because condos are plump and ripe to stomp on our bones. This is the final frontier: gentrification that moves beyond just losing a home you immigrate to, but one that was gifted to you as a refugee by the the infinitely benevolent Swiss gods—you, a mere refugee.
+
+
+It's not just like take it back before it's gone. It's like
+
+it was gone before it was even there.
+
+
+This moment creates a further gap between me and my cousins, aunt and uncle in beirut.
+
+
+I yell it across the sea:
+
+
+Our mortgage
+
+and
+
+your survival
+
+
+my chosen art-survival
+
+and
+
+yall as hoteliers
+
+
+our liberal arts jokes
+
+and
+
+your facebook games
+
+
+I'm walking down the street in fear of harrassment, and scaring the local residents with my whiteness and privilege, sucking up their homes
+
+and
+
+You're walking down the street in fear of car bombs and 'smelly syrian refugees' as you call them
+
+
+Death. Taxes. Getting It Taken Away.
+
+
+I listen to my apartment walls for old advice.
+
+You are happy to have walls, in a house where your mom and dad sleep in the pull out bed in the living room and no one complains. In a house you left, with a cat and a backpack, to the mountains in the summer of 2006, to escape the IDF bombs. Summer of 2006, when I was at a dance festival.
+
+
+My cousin Sarine said:
+
+It's ok. Dad figured it out. My boss was working with Hezbollah, so I lost my job, but I got a new one, it's ok.
+
+
+And I said back:
+
+never have I ever escaped war.
+
+Never have I even known just how much my parents gave yours,
+
+or where it went.
