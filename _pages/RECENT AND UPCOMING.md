@@ -1,3 +1,12 @@
+---
+layout: page
+name: RECENT AND UPCOMING
+position: 8
+---
+
+
+# RECENT AND UPCOMING
+
 Please email lorenesite at gmail dot com for more information, and to be added to the mailing list!
 
 UPCOMING, NY:
