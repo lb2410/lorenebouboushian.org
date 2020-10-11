@@ -1,3 +1,23 @@
+var initCarousel = function() {
+  tns({
+    container: '.carousel',
+    items: 1,
+    slideBy: 'page',
+    autoplay: true,
+    controls: false,
+    arrowKeys: true,
+    mouseDrag: true,
+    autoplayButtonOutput: false,
+    nav: false
+  });
+  var carousel = document.querySelector('.carousel');
+  if (carousel) {
+    carousel.focus();
+  }
+}
+
+window.addEventListener('DOMContentLoaded', initCarousel);
+
 var anim = document.querySelector('#headerLineDrawing .lines path') && anime({
   targets: '#headerLineDrawing .lines path',
   strokeDashoffset: [anime.setDashoffset, 0],
@@ -10,62 +30,9 @@ var anim = document.querySelector('#headerLineDrawing .lines path') && anime({
   }
 });
 
-var carouselInterval;
-var carouselNav;
-
-var setCarouselInterval = function() {
-  // automate carousel image changes
-  carouselInterval = setInterval(function(){
-    carouselNav('RIGHT');
-  }, 6660);   
-}
-
-var initCarousel = function() {
-  var carousel_index = 0;
-  var images = document.querySelectorAll('.imgWrapper');
-
-  carouselNav = function(direction) {
-    if(window.scrollY < 50) {
-      clearInterval(carouselInterval);
-      setCarouselInterval();
-      if(direction === 'LEFT'){
-        carousel_index -= 1;
-        if(carousel_index <= -1){
-          carousel_index = images.length - 1;
-        }
-      }else if(direction === 'RIGHT'){
-        carousel_index += 1;
-        if(carousel_index >= images.length){
-          carousel_index = 0
-        }
-      }
-      images[carousel_index].scrollIntoView({ behavior: 'smooth'});
-    }
-  }
-
-  window.onkeyup = function(e) {
-    if(e.key == 'ArrowLeft') {
-      carouselNav('LEFT');
-    } else if( e.key == 'ArrowRight') {
-      carouselNav('RIGHT');
-    }
-  }
-
-  var hammertime = new Hammer(document.querySelector('#carousel'));
-  hammertime.get('swipe').set({ direction: Hammer.DIRECTION_HORIZONTAL });
-  hammertime.on('swipeleft', function(){carouselNav('RIGHT')});
-  hammertime.on('swiperight', function(){carouselNav('LEFT')});
-
-  setTimeout(function(){
-    carouselNav('RIGHT');
-    setCarouselInterval();
-  }, 4000);
-}
-
+// dynamically change the header nav background transparency so carousel images bleed-thru but other content does not.
 var header = document.querySelector('header')
 if(header){
-  header.classList.add('fadeToBlackBg');
-  document.querySelectorAll('.imgWrapper').forEach(function(elem){elem.classList.add('fadeToBlackBg')});
   var nav = document.querySelector('nav');
   if(nav) {
     nav.style.backgroundColor = 'rgba(0,0,0,0.3)';
@@ -78,13 +45,14 @@ if(header){
     })
   }
 }
+
 var subHeading = document.getElementById('subHeading');
 if(subHeading){
   setTimeout(function(){
     subHeading.classList.remove('invisible');
     subHeading.classList.add('fadeToHotpinkNeon');
     subHeading.classList.add('neon');
-    initCarousel();
+    
   }, 6000);
 }
 
