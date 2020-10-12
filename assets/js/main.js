@@ -1,17 +1,17 @@
 var initCarousel = function() {
-  tns({
-    container: '.carousel',
-    items: 1,
-    slideBy: 'page',
-    autoplay: true,
-    controls: false,
-    arrowKeys: true,
-    mouseDrag: true,
-    autoplayButtonOutput: false,
-    nav: false
-  });
   var carousel = document.querySelector('.carousel');
   if (carousel) {
+    tns({
+      container: '.carousel',
+      items: 1,
+      slideBy: 'page',
+      autoplay: true,
+      controls: false,
+      arrowKeys: true,
+      mouseDrag: true,
+      autoplayButtonOutput: false,
+      nav: false
+    });
     carousel.focus();
   }
 }

@@ -49,10 +49,7 @@ img {
 
 header {
   position: relative;
-  /* top: -36px; */
   height: 100vh;
-  /* background: url('../images/cropped-walter-wlodarczyk-2017-05-12-_87a1913.jpg');
-  background-size: cover; */
 }
 
 #headerLineDrawing {
@@ -93,6 +90,7 @@ header {
   text-align: center;
   font-size: 2em;
   font-style: italic;
+  font-family: serif;
 }
 
 #subHeading div:first-child {
@@ -157,8 +155,8 @@ header {
   animation-duration: 3s;
   color: #f1f;
   text-shadow:
-    /* 0 0 5px #f1f, */
-    /* 0 0 10px #f1f, */
+    0 0 5px rgba(0,0,0,0.8),
+    0 0 10px rgba(0,0,0,0.5),
     /* 0 0 20px #f1f, */
     0 0 40px #f1f,
     0 0 80px #f1f,
