@@ -49,10 +49,7 @@ img {
 
 header {
   position: relative;
-  /* top: -36px; */
   height: 100vh;
-  /* background: url('../images/cropped-walter-wlodarczyk-2017-05-12-_87a1913.jpg');
-  background-size: cover; */
 }
 
 #headerLineDrawing {
@@ -65,54 +62,40 @@ header {
   color: #f1f;
 }
 
-#carousel {
+*:focus {
+  outline: none;
+}
+
+.carousel-wrapper {
   position: absolute;
-  top: 0;
-  width: 100vw;
-  height: 100vh;
+  top: -37px;
+  max-width: 100vw;
   overflow: hidden;
 }
 
-#carousel #content {
-  display: inline-flex;
-}
-
-#carousel .imgWrapper {
+.carousel>.item {
   width: 100vw;
   height: 100vh;
-  display: flex;
-  justify-content: center;
-  text-align: center; /* well, mostly flex does this */
-  background-size: cover !important;
 }
+
+.carousel>.item>img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+
 
 #subHeading {
   max-width: 100vw;
   text-align: center;
   font-size: 2em;
   font-style: italic;
+  font-family: serif;
 }
 
 #subHeading div:first-child {
   margin-bottom: 20vh;
 }
-
-.fadeToBlackBg {
-  animation-name: fadeToBlackBg;
-  animation-duration: 3s;
-  background-color: black;
-}
-@keyframes fadeToBlackBg {
-  0% {
-    background-color: white;
-    filter: saturate(0%) brightness(0%);
-  }
-  100% {
-    background-color: black;
-    filter: saturate(100%) brightness(100%);
-  }
-}
-
 
 .fadeInBorder {
   animation-name: fadeInBorder;
@@ -172,8 +155,8 @@ header {
   animation-duration: 3s;
   color: #f1f;
   text-shadow:
-    /* 0 0 5px #f1f, */
-    /* 0 0 10px #f1f, */
+    0 0 5px rgba(0,0,0,0.8),
+    0 0 10px rgba(0,0,0,0.5),
     /* 0 0 20px #f1f, */
     0 0 40px #f1f,
     0 0 80px #f1f,
