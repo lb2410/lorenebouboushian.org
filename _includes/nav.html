@@ -14,7 +14,7 @@
     </div>  
   </a>
   {%- endif -%}
-  {%- assign sorted_pages = (site.pages | sort: 'position') -%}
+  {%- assign sorted_pages = (site.pages | where_exp:"page", "page.subproject != true" | sort: 'position') -%}
   {%- for site_page in sorted_pages -%}
     {%- assign active = nil -%}
     {%- if page.url == site_page.url -%}

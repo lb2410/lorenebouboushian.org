@@ -16,9 +16,17 @@ SELECTED PROJECTS
 
 [missdick vibrocis](https://missdickvibrocis.bandcamp.com/releases) is a noise/performance art duo featuring crypto-femme demoness Jill Flanagan of Forced Into Femininity (FIF), and garbage-mouth seabird Lorene Bouboushian, a performer specializing in dance-based social commentary.  Digesting the echo chamber of art-world desires for relevance and respectability politics into the trash compactors known as our bodies, we seek to enlighten via confusion, noise, and rubbing our theatrical makeup on you.
 
-
-
-
- 
-
-
+<div>
+{%- assign pages = (site.pages | where_exp:"page", "page.path contains '/projects/'" | sort: 'position') -%}
+{%- for page in pages -%}
+  {%- assign active = nil -%}
+  {%- if page.url == page.url -%}
+    {%- assign active = 'active' -%}
+  {%- endif -%}
+<div>
+<a class="{{active}}" href="{{ page.url | relative_url }}">
+  {{ page.name | escape }}
+</a>
+</div>
+{%- endfor -%}
+</div>
