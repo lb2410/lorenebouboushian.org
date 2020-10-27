@@ -13,7 +13,7 @@ position: 3
   {%- endif -%}
   <div>
     <a class="{{active}}" href="{{ page.url | relative_url }}">
-      <img src="{{page.image}}" alt="" />
+      <img src="{{page.image}}" alt="{{page.name}}" />
       <div class="name">{{ page.name | escape }}</div>
     </a>
   </div>
