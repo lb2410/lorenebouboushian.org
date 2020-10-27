@@ -1,7 +1,7 @@
 ---
 layout: page
 name: SELECTED PROJECTS
-position: 3
+position: 4
 ---
 
 <div class="projectsGrid">

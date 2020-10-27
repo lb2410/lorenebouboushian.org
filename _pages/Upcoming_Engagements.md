@@ -1,10 +1,10 @@
 ---
 layout: page
-title:  "Upcoming Engagements"
-date: 2018-10-24
-categories: stuff
-excerpt_separator: <!--more-->
+name: UPCOMING
+position: 1
 ---
+
+# Upcoming Engagements
 
 Please email lorenesite at gmail dot com for more information, and to be added to the mailing list!
 
@@ -41,5 +41,3 @@ Performed at the Panoply Performance Lab closing festival Sunday Nov 18.
 Hosted experimental performance showcase at The Glove Dec 6, featuring performance/dance artist Malcolm-X Betts, poet Amanda Salane, and musicians ellen o and Crystal Penalosa.
 
 Collaboratively facilitated the Studies Project [CLASS ENTWINES](https://movementresearch.org/event/9115) Weds Dec 12 6:30pm. 
-
-<!--more-->

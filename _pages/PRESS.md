@@ -1,7 +1,7 @@
 ---
 layout: page
 name: PRESS
-position: 6
+position: 7
 ---
 
 # PRESS

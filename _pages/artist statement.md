@@ -1,7 +1,7 @@
 ---
 layout: page
 name: ARTIST STATEMENT
-position: 2
+position: 3
 ---
 
 # ARTIST STATEMENT
