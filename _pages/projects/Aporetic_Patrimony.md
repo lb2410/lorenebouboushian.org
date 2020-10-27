@@ -1,7 +1,7 @@
 ---
 layout: page
 name: Aporetic Patrimony
-image: /lorenebouboushian.org/assets/images/WHAT_EVER_IMAGE.jpg
+image: /assets/images/aporeticpatrimonytile.jpg
 position: 1
 subproject: true
 ---

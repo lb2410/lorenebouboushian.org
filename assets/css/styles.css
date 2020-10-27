@@ -314,3 +314,35 @@ footer a {
     background-size: cover!important;
   }
 }
+
+.projectsGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 10% 10%;
+  padding: 0 10%;
+}
+.projectsGrid a {
+  text-decoration: none;
+  color: #f1f;
+}
+.projectsGrid a:hover {
+  color: #666;
+}
+.projectsGrid a {
+  transition: filter 1.5s;
+}
+.projectsGrid a:hover {
+  filter: grayscale(1);
+}
+.projectsGrid .name {
+  text-align: center;
+  margin-top: 1em;
+  font-size: 1.5em;
+}
+@media (max-width: 600px) {
+  .projectsGrid {
+    padding: 0;
+    font-size: 1.25em;
+  }
+}

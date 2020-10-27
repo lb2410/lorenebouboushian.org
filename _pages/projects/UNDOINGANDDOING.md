@@ -1,7 +1,7 @@
 ---
 layout: page
 name: UNDOING&DOING
-image: /lorenebouboushian.org/assets/images/WHAT_EVER_IMAGE.jpg
+image: /assets/images/resizedUNDOINGDOINGtile.JPG
 position: 3
 subproject: true
 ---

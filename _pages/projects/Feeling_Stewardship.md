@@ -1,7 +1,7 @@
 ---
 layout: page
 name: Feeling Stewardship
-image: /lorenebouboushian.org/assets/images/WHAT_EVER_IMAGE.jpg
+image: /assets/images/redoFeelingStewardshipTile.jpg
 position: 2
 subproject: true
 ---
