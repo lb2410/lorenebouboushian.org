@@ -1,23 +1,14 @@
 ---
 layout: page
-name: UPCOMING
-position: 1
+name: RECENT
+position: 6
 ---
 
-# Upcoming Engagements
+# Recent Engagements
 
-Please email lorenesite at gmail dot com for more information, and to be added to the mailing list!
+Please email lorenesite at gmail dot com to be added to the mailing list for future engagements!
 
-UPCOMING, NY:
-
-Participating in the [Mount Tremper Arts Watershed Residency](http://www.mounttremperarts.org/MovementResearch), with culminating performance June 30.
-
-Performing in the [Interrobang: New Works Festival](https://www.facebook.com/InterrobangNewWorks/), July 12 and 16.
-
-Curating and hosting an interdisciplinary performance evening featuring [Jamondria Harris](https://meroitic.bandcamp.com/) at [Vital Joint](http://titlepoint.org/vital-joint/), July 26. 
-
-
-2019, PAST:
+2019:
 
 Performed in the [Sweet Maria Monument](http://www.platform-mag.com/art/sweet-maria-monument.html) at the [Kochi-Muziris Biennale](http://www.kochimuzirisbiennale.org/), February 3.
 
@@ -26,6 +17,12 @@ Performed at [The Fuse Factory's](http://thefusefactory.org/about-us/) Frequency
 Held a residency at [Three Phase Center](https://www.threephasecenter.com/) with the [UNDOING AND DOING Collective](https://www.youtube.com/watch?v=Pf_F_fw_lu4) April 12-14, with a culminating performance at the [Center for Performance Research](http://www.cprnyc.org/), April 16.
 
 Held a residency through Santa Fe Art Institute's [Truth and Reconciliation Residency Program](https://sfai.org/truth-reconciliation/), with an open studios event and [workshop](https://sfai.org/event/undoing-a-workshop-lorene-bouboushian/), May.
+
+Participated in the [Mount Tremper Arts Watershed Residency](http://www.mounttremperarts.org/MovementResearch), with culminating performance June 30.
+
+Performed in the [Interrobang: New Works Festival](https://www.facebook.com/InterrobangNewWorks/), July 12 and 16.
+
+Curated and hosted an interdisciplinary performance evening featuring [Jamondria Harris](https://meroitic.bandcamp.com/) at [Vital Joint](http://titlepoint.org/vital-joint/), July 26. 
 
 2018, NYC:
 
