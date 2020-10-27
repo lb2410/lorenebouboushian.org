@@ -10,15 +10,21 @@
 
 #### images (replace `WHAT_EVER_IMAGE.jpg` with whatever image...)  
 
-`![alt text](/lorenebouboushian.org/assets/images/WHAT_EVER_IMAGE.jpg)`
+`![alt text](/assets/images/WHAT_EVER_IMAGE.jpg)`
 
-upload images here: [/assets/images/](https://github.com/edwardsharp/lorenebouboushian.org/upload/master/assets/images)
+upload images here: [/assets/images/](https://github.com/lb2410/lorenebouboushian.org/tree/master/assets/images)
 
-upload carousel images to the [/assets/images/carousel/](https://github.com/edwardsharp/lorenebouboushian.org/upload/master/assets/images/carousel) directory. note that images are displayed in alpha/numeric order so name yr images like `0.jpg` `1.png` `666.gif` and so on.
+upload carousel images to the [/assets/images/carousel/](https://github.com/lb2410/lorenebouboushian.org/tree/master/assets/images/carousel) directory. note that images are displayed in alpha/numeric order so name yr images like `0.jpg` `1.png` `666.gif` and so on.
+
+image that is a link:
+
+```md
+[![some image alt text](/assets/images/WHAT_EVER_IMAGE.jpg)](http://WHATEVER.URL)
+```
 
 ## directories
 
-[/_pages/](https://github.com/edwardsharp/lorenebouboushian.org/tree/master/_pages) every file in this directory will get added, as a link, to the main navigation. 
+[/_pages/](https://github.com/lb2410/lorenebouboushian.org/tree/master/_pages) every file in this directory will get added, as a link, to the main navigation. 
 
 to add a new page create a new .md file in the _pages/ directory named like: `WHATEVER.md`. 
 
@@ -32,7 +38,7 @@ position: 1
 ---
 ```
 
-[/_posts/](https://github.com/edwardsharp/lorenebouboushian.org/tree/master/_posts) the post with the newest date will get shown on the home/landing page. to create a new post add a file with a name like `YEAR-MONTH-DAY-something.md` (ex: `2018-10-24-autumn.md`). posts need this at the top:
+[/_posts/](https://github.com/lb2410/lorenebouboushian.org/tree/master/_posts) the post with the newest date will get shown on the home/landing page. to create a new post add a file with a name like `YEAR-MONTH-DAY-something.md` (ex: `2018-10-24-autumn.md`). posts need this at the top:
 
 ```yaml
 ---
