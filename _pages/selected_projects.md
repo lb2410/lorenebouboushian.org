@@ -11,11 +11,11 @@ position: 3
   {%- if page.url == page.url -%}
     {%- assign active = 'active' -%}
   {%- endif -%}
-<div>
-<a class="{{active}}" href="{{ page.url | relative_url }}">
-  <img src="{{page.image}}" alt="" />
-  <div class="name">{{ page.name | escape }}</div>
-</a>
-</div>
+  <div>
+    <a class="{{active}}" href="{{ page.url | relative_url }}">
+      <img src="{{page.image}}" alt="" />
+      <div class="name">{{ page.name | escape }}</div>
+    </a>
+  </div>
 {%- endfor -%}
 </div>
