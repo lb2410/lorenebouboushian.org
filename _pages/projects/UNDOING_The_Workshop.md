@@ -17,10 +17,13 @@ Past teaching engagements include New Museum, University of Kentucky-Lexington, 
 
 
 Testimonials from past students:
-"The playful and deep spirit with which she guided us into ever more connected improvisation serves me as a guide when I'm feeling creatively "stuck." Lorena can take you to the yicky sticky places and show the way through." -Carole McCurdy, Movement Artist, Chicago
-
-"Lorene challenged and pushed us out of our comfort zones and helped us to buck against socially prescribed “acceptable” movement and behavior. This control demolition was very effective and left the room feeling free and jubilating." -Cooper Gibson, former UK-Lexington student
+"I arrived feeling broken down and desperate for rejuvenation. Lorene set the tone for discovery and play. I felt I could do or not do anything that was presented. I had agency over my body. They presented somatic techniques I was familiar with but the durational practice was new to me. It seemed to usher me into a place of knowing that was so blissful I actually silently questioned which exercise could have made me high. Then we went outside and colors were more vibrant, patterns seemed sacred, sounds somehow clearer. In the past I'd roll my eyes if someone suggested I hug a tree, but I found myself holding onto one and weeping, apologizing to it for not taking the time to notice it before. And then I was just in awe of everything. At the end of the workshop I found my experience to be similar to others. I wasn't alone." -Amy Compton, Dance Artist, New Mexico
 
 "It was a sweet communally supportive experience of listening to self and others through exploring embodied creative exercises. I left feeling lighter and more connected to the present, informed by different practices that Lorene proposed could be part of my toolkit." -Katya Chizayeva, Somatic Artist, New Orleans
 
-"I arrived feeling broken down and desperate for rejuvenation. Lorene set the tone for discovery and play. I felt I could do or not do anything that was presented. I had agency over my body. They presented somatic techniques I was familiar with but the durational practice was new to me. It seemed to usher me into a place of knowing that was so blissful I actually silently questioned which exercise could have made me high. Then we went outside and colors were more vibrant, patterns seemed sacred, sounds somehow clearer. In the past I'd roll my eyes if someone suggested I hug a tree, but I found myself holding onto one and weeping, apologizing to it for not taking the time to notice it before. And then I was just in awe of everything. At the end of the workshop I found my experience to be similar to others. I wasn't alone." -Amy Compton, Dance Artist, New Mexico
+"The playful and deep spirit with which she guided us into ever more connected improvisation serves me as a guide when I'm feeling creatively stuck. Lorene can take you to the yicky sticky places and show the way through." -Carole McCurdy, Movement Artist, Chicago
+
+"Lorene challenged and pushed us out of our comfort zones and helped us to buck against socially prescribed “acceptable” movement and behavior. This control demolition was very effective and left the room feeling free and jubilating." -Cooper Gibson, Artist
+
+
+
