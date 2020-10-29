@@ -16,9 +16,10 @@ UNDOING&DOING operates from a space of radical imagination as we seek a reinvent
 
 Current collective members include Sierra Ortega, Simone Johnson, Tatyana Tenenbaum, edward sharp, Kaia Gilje, Arantxa Araujo, Rina Espiritu, Helen Yung, Nicole Goodwin, Julia Santoli, Samantha CC, Raha Behnam, and Lorene Bouboushian.
 
-(/lorenebouboushian.org/assets/images/udnotesfromtaty.jpg)
+![Undoing and Doing Notes](https://github.com/lb2410/lorenebouboushian.org/blob/master/assets/images/udnotesfromtaty.JPG)
 
 During our most ambitious performance intervention, we simultaneously engaged the audience in multiple activities pertaining to our in-progress mutual aid platforms. Through this engagement with a performative context, we aimed to share our in-studio process of troubling the mind-body divide, and honoring our multiplicity of perspectives and interests.
+
 We began by soliciting participation in two different projects: a housing support platform and an anonymous, online psychological support group.
 Then, we divided the audience into groups. Some people were engaged in somatic experiments (walking and talking nonstop, lying down and listening to one's breath, tuning in deeply in the midst of chaos). Others were engaged in a live game version of a screen-time accountability platform: phones were passed around in 30-second intervals of social media scrolling. During another game called REDIRECT, a "rapid-fire problem-solving method" was used to transform destructive notions like competitive art markets into healing ones like resource sharing.
 
