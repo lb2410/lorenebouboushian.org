@@ -9,6 +9,7 @@ position: 6
 Please email lorenesite at gmail dot com to be added to the mailing list for future engagements!
 
 
+
 2020:
 
 Performed [The Skeleton of the Horizon](https://www.youtube.com/watch?v=z-SUKTjUpnk) in the Experimental Sound Studio's [Quarantine Concerts Series](https://ess.org/the-quarantine-concerts).
@@ -16,6 +17,7 @@ Performed [The Skeleton of the Horizon](https://www.youtube.com/watch?v=z-SUKTjU
 Performed [COINTELPRO + The Butthole Aria](https://www.youtube.com/watch?v=Fdkw94O14Co) in the [Out of Caution Festival](https://www.twitch.tv/outofcaution).
 
 Participated in the [Freedom From/Freedom To Series](https://elasticarts.org/event/freedom-from-and-freedom-to-night-1/).
+
 
 
 2019:
@@ -37,6 +39,7 @@ Curated and hosted an interdisciplinary performance evening featuring [Jamondria
 Held a residency at [Sub Rosa Space](https://www.subrosaspace.net/about-us) in Athens Greece. Taught the Undoing Workshop and performed an updated version of [Aporetic Patrimony](https://www.youtube.com/watch?v=ip2zvgwsLS8&t=1216s).
 
 Performed [I Am Honored](https://youtu.be/6g3fLRFUNo0?t=30) at DanceH0l0.
+
 
 
 2018, NYC:
