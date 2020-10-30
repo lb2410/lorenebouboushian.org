@@ -346,3 +346,9 @@ footer a {
     font-size: 1.25em;
   }
 }
+
+.center {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}

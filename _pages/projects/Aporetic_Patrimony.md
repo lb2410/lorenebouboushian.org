@@ -8,7 +8,9 @@ subproject: true
 
 Aporetic Patrimony
 
-<iframe width="677" height="381" src="https://www.youtube.com/embed/J79ElBGsHJY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="center">
+  <iframe width="677" height="381" src="https://www.youtube.com/embed/J79ElBGsHJY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Aporetic Patrimony (2019) is an evening length work that stemmed from reading my maternal cousin’s 
 informal research on the Palatine German exiles in the US, my paternal grandfather’s memoirs of surviving 
