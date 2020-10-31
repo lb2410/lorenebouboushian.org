@@ -6,10 +6,6 @@ position: 6
 
 # RECENT ENGAGEMENTS
 
-<div class="center">
-  Please email lorenesite at gmail dot com to be added to the mailing list for future engagements!
-</div>
-
 <div class="center"><iframe width="610" height="381" src="https://www.youtube.com/embed/z-SUKTjUpnk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 2020:
@@ -54,6 +50,10 @@ Performed at the 92nd St Y Fridays at Noon Series with Jill Sigman/thinkdance.
 
 Performed at the Panoply Performance Lab closing festival8.
 
-Hosted experimental performance showcase at The Glove, featuring performance/dance artist Malcolm-X Betts, poet Amanda Salane, and musicians ellen o and Crystal Penalosa.
+Hosted experimental performance showcase at The Glove, featuring performance artists ASABOVESOBELOW, poet Amanda Salane, and musicians ellen o and Crystal Penalosa.
 
 Collaboratively facilitated the Studies Project [CLASS ENTWINES](https://movementresearch.org/event/9115). 
+
+<div class="center">
+  Please email lorenesite at gmail dot com to be added to the mailing list for future engagements!
+</div>
