@@ -31,7 +31,13 @@ var initMainCarousel = function() {
       nav: false,
       center: false,
       autoWidth: true,
-      gutter: 50
+      gutter: 1,
+      responsive: {
+        600: {
+          gutter: 50,
+          items: 3
+        }
+      }
     });
     carousel.focus();
   }
