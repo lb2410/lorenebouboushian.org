@@ -21,21 +21,23 @@ var initMainCarousel = function() {
       container: '.carousel',
       loop: false,
       items: 1,
-      slideBy: 'page',
-      autoplay: true,
-      // controls: false,
+      // slideBy: 'page',
+      slideBy: 1,
+      controls: false,
       controlsPosition: 'bottom',
       arrowKeys: true,
       mouseDrag: true,
+      autoplay: true,
+      autoplayHoverPause: true,
       autoplayButtonOutput: false,
       nav: false,
-      center: false,
+      // center: false,
       autoWidth: true,
-      gutter: 1,
+      gutter: 10,
       responsive: {
         600: {
           gutter: 50,
-          items: 3
+          controls: true
         }
       }
     });
