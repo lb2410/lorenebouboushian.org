@@ -4,9 +4,12 @@ name: 'UNDOING: The Workshop'
 image: /assets/images/undoingworkshoptile.jpg
 position: 4
 subproject: true
+carousel: workshopcarousel
 ---
 
 # UNDOING: THE WORKSHOP
+
+{% include carousel.html %}
 
 UNDOING is a workshop that synthesizes my personal research and creative practice to support investigation by a wide audience of creatives and activists. For UNDOING, I began with a central question: Can a quest for liberation, and a path toward resistance, begin with our flesh and blood, and the energies and histories we contain? 
 

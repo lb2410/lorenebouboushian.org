@@ -19,6 +19,7 @@ var initMainCarousel = function() {
   if (carousel) {
     tns({
       container: '.carousel',
+      loop: false,
       items: 1,
       slideBy: 'page',
       autoplay: true,
@@ -27,7 +28,7 @@ var initMainCarousel = function() {
       mouseDrag: true,
       autoplayButtonOutput: false,
       nav: false,
-      center: true,
+      center: false,
       autoWidth: true
     });
     carousel.focus();
