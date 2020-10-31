@@ -16,9 +16,7 @@ In all my workshops, we use somatic visualization and exercises as a starting po
 
 Past teaching engagements include New Museum, University of Kentucky-Lexington, NAHNOO (Beirut), Universidad de Las Americas Puebla (Mexico).
 
-<div class="center">
   ![LoreneAndSimoneCPR](/assets/images/undoingworkshopsitephoto.jpeg)
-</div>
 
 Testimonials from past students:
 
