@@ -1,8 +1,8 @@
-var initCarousel = function() {
-  var carousel = document.querySelector('.carousel');
-  if (carousel) {
+var initMainCarousel = function() {
+  var mainCarousel = document.querySelector('.mainCarousel');
+  if (mainCarousel) {
     tns({
-      container: '.carousel',
+      container: '.mainCarousel',
       items: 1,
       slideBy: 'page',
       autoplay: true,
@@ -12,11 +12,29 @@ var initCarousel = function() {
       autoplayButtonOutput: false,
       nav: false
     });
+    mainCarousel.focus();
+  }
+
+  var carousel = document.querySelector('.carousel');
+  if (carousel) {
+    tns({
+      container: '.carousel',
+      items: 1,
+      slideBy: 'page',
+      autoplay: true,
+      // controls: false,
+      arrowKeys: true,
+      mouseDrag: true,
+      autoplayButtonOutput: false,
+      nav: false,
+      center: true,
+      autoWidth: true
+    });
     carousel.focus();
   }
 }
 
-window.addEventListener('DOMContentLoaded', initCarousel);
+window.addEventListener('DOMContentLoaded', initMainCarousel);
 
 var anim = document.querySelector('#headerLineDrawing .lines path') && anime({
   targets: '#headerLineDrawing .lines path',

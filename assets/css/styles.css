@@ -19,10 +19,6 @@ a:hover, a.active {
   transition-property: color, fill;
 }
 
-img {
-  width: 100%;
-}
-
 .hidden {
   display: none;
 }
@@ -41,7 +37,7 @@ img {
   margin: 2.5em;
 }
 
-.page * {
+.page {
   max-width: 95vw;
 }
 
@@ -97,24 +93,32 @@ header {
   outline: none;
 }
 
-.carousel-wrapper {
+.mainCarousel-wrapper {
   position: absolute;
   top: -37px;
   max-width: 100vw;
   overflow: hidden;
+  text-align: center;
 }
 
-.carousel>.item {
+.mainCarousel>.item {
   width: 100vw;
   height: 100vh;
 }
 
-.carousel>.item>img {
+.mainCarousel>.item>img {
   object-fit: cover;
   width: 100%;
   height: 100%;
 }
 
+.carousel-wrapper {
+  width: 100%;
+}
+
+.carousel img {
+  max-height: 300px;
+}
 
 #subHeading {
   max-width: 100vw;
@@ -339,11 +343,6 @@ footer a {
   .post, .page {
     margin: 0.5em;
   }
-
-  #carousel .imgWrapper {
-    background-repeat: repeat;
-    background-size: cover!important;
-  }
 }
 
 .projectsGrid {
@@ -371,6 +370,10 @@ footer a {
   margin-top: 1em;
   font-size: 1.5em;
 }
+.projectsGrid img {
+  width: 100%;
+}
+
 @media (max-width: 600px) {
   .projectsGrid .name {
     padding: 0;
