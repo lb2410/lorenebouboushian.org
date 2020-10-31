@@ -6,7 +6,9 @@ position: 6
 
 # RECENT ENGAGEMENTS
 
-Please email lorenesite at gmail dot com to be added to the mailing list for future engagements!
+<div class="center">
+  Please email lorenesite at gmail dot com to be added to the mailing list for future engagements!
+</div>
 
 <div class="center"><iframe width="610" height="381" src="https://www.youtube.com/embed/z-SUKTjUpnk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
