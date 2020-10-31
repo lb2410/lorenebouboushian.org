@@ -6,7 +6,7 @@ position: 4
 subproject: true
 ---
 
-UNDOING: The Workshop
+# UNDOING: THE WORKSHOP
 
 UNDOING is a workshop that synthesizes my personal research and creative practice to support investigation by a wide audience of creatives and activists. For UNDOING, I began with a central question: Can a quest for liberation, and a path toward resistance, begin with our flesh and blood, and the energies and histories we contain? 
 
@@ -16,7 +16,7 @@ In all my workshops, we use somatic visualization and exercises as a starting po
 
 Past teaching engagements include New Museum, University of Kentucky-Lexington, NAHNOO (Beirut), Universidad de Las Americas Puebla (Mexico).
 
-<div class="center">[LoreneAndSimoneCPR](/assets/images/undoingworkshopsitephoto.jpeg)</div>
+<div class="center">![LoreneAndSimoneCPR](/assets/images/undoingworkshopsitephoto.jpeg)</div>
 
 Testimonials from past students:
 "I arrived feeling broken down and desperate for rejuvenation. Lorene set the tone for discovery and play. I felt I could do or not do anything that was presented. I had agency over my body. They presented somatic techniques I was familiar with but the durational practice was new to me. It seemed to usher me into a place of knowing that was so blissful I actually silently questioned which exercise could have made me high. Then we went outside and colors were more vibrant, patterns seemed sacred, sounds somehow clearer. In the past I'd roll my eyes if someone suggested I hug a tree, but I found myself holding onto one and weeping, apologizing to it for not taking the time to notice it before. And then I was just in awe of everything. At the end of the workshop I found my experience to be similar to others. I wasn't alone." -Amy Compton, Dance Artist, New Mexico
