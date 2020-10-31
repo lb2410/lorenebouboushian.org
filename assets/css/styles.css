@@ -49,6 +49,33 @@ img {
   padding: 0 15%; 
 }
 
+.page h1 {
+  padding: 0 15%;
+  text-align: center;
+}
+
+.page p > img {
+  width: 75%;
+  margin: 0 auto;
+  display: block;
+}
+
+@media (max-width: 600px) {
+  .page p {
+    padding: 0; 
+  }
+
+  .page h1 {
+    padding: 0;
+  }
+
+  .page p > img {
+    width: 100%;
+  }
+
+  
+}
+
 /* header.html */
 
 header {
