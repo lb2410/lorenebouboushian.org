@@ -6,7 +6,7 @@ position: 2
 subproject: true
 ---
 
-Feeling Stewardship
+# FEELING STEWARDSHIP
 
 Feeling Stewardship is an interactive installation that asked audiences to tune in deeply through meditation, examine the complexity of their family histories, then envision what they would like to steward for future generations by writing, drawing, and reading activist texts. 
 
