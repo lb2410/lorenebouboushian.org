@@ -6,7 +6,7 @@ position: 3
 subproject: true
 ---
 
-UNDOING&DOING Collective
+# UNDOING&DOING COLLECTIVE
 
 <div class="center">
   <iframe width="677" height="381" src="https://www.youtube.com/embed/7uuP-vz8Pzk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
