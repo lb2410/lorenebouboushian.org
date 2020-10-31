@@ -4,11 +4,11 @@ name: RECENT
 position: 6
 ---
 
-# Recent Engagements
+# RECENT ENGAGEMENTS
 
 Please email lorenesite at gmail dot com to be added to the mailing list for future engagements!
 
-<iframe width="610" height="381" src="https://www.youtube.com/embed/z-SUKTjUpnk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="center"><iframe width="610" height="381" src="https://www.youtube.com/embed/z-SUKTjUpnk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 2020:
 
@@ -18,7 +18,7 @@ Performed [COINTELPRO + The Butthole Aria](https://www.youtube.com/watch?v=Fdkw9
 
 Participated in the [Freedom From/Freedom To Series](https://elasticarts.org/event/freedom-from-and-freedom-to-night-1/).
 
-<iframe width="677" height="381" src="https://www.youtube.com/embed/6g3fLRFUNo0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="center"><iframe width="677" height="381" src="https://www.youtube.com/embed/6g3fLRFUNo0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 2019:
 
@@ -40,7 +40,7 @@ Held a residency at [Sub Rosa Space](https://www.subrosaspace.net/about-us) in A
 
 Performed [I Am Honored](https://youtu.be/6g3fLRFUNo0?t=30) at DanceH0l0.
 
-<iframe width="677" height="381" src="https://www.youtube.com/embed/qFOgKp1t4Us" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="center"><iframe width="677" height="381" src="https://www.youtube.com/embed/qFOgKp1t4Us" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 2018, NYC:
 
