@@ -24,12 +24,14 @@ var initMainCarousel = function() {
       slideBy: 'page',
       autoplay: true,
       // controls: false,
+      controlsPosition: 'bottom',
       arrowKeys: true,
       mouseDrag: true,
       autoplayButtonOutput: false,
       nav: false,
       center: false,
-      autoWidth: true
+      autoWidth: true,
+      gutter: 50
     });
     carousel.focus();
   }
