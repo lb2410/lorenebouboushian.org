@@ -2,9 +2,9 @@
   <div class="carousel" tabindex="0">
     {% for image in site.static_files %}
       {% if image.path contains page.carousel %}
-        <div class="item">
+        <a class="item" href="{{ site.baseurl }}{{ image.path }}">
           <img src="{{ site.baseurl }}{{ image.path }}" alt="LB performs">
-        </div>
+        </a>
       {% endif %}
     {% endfor %}
     </div>
