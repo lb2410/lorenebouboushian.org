@@ -14,6 +14,8 @@ Performed [The Skeleton of the Horizon](https://www.youtube.com/watch?v=z-SUKTjU
 
 Performed [COINTELPRO + The Butthole Aria](https://www.youtube.com/watch?v=Fdkw94O14Co) in the [Out of Caution Festival](https://www.twitch.tv/outofcaution).
 
+Performed [sonant and surd: a bedroom livestream](https://www.youtube.com/watch?v=a8rG7FH9tl0&feature=youtu.be) in the [CORPUS COLISEUM](http://www.panoplylab.org/content/corpus-coliseum) Series.
+
 Participated in the [Freedom From/Freedom To Series](https://elasticarts.org/event/freedom-from-and-freedom-to-night-1/).
 
 <div class="center"><iframe width="677" height="381" src="https://www.youtube.com/embed/6g3fLRFUNo0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
