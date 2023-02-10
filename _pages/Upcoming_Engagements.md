@@ -6,6 +6,34 @@ position: 6
 
 # RECENT ENGAGEMENTS
 
+<iframe width="640" height="360" src="https://www.youtube.com/embed/RJhct99BfL0" title="ROCK TOP at the Pleiades Series, Elastic Arts, Chicago - Sept 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+2022:
+
+Created [this short video](https://youtu.be/xzd1H1-rpAU) for "The Red Room in Your Room" Online Series through the [High Zero Foundation](http://highzerofoundation.org/)
+
+Shared [A Meditation on Desire](https://youtu.be/xdAs9rj5kaI) at No Nation Art Lab
+
+Taught the [Growing a New Self](https://www.queerspaces.net/sign-up-s1-workshop-one) queer somatics workshop at Svetova 1 through the Queer Spaces Network in Prague
+
+Shared the [performance](https://youtu.be/6tvAbBrit1w) and [installation](https://youtu.be/3xGOi_OwCUA) work "the weary anechoic chamber," at [DOMIE](http://domie.pl/) in Poznan, Poland
+
+Presented [ROCK TOP](https://youtu.be/RJhct99BfL0) at [Elastic Arts](https://elasticarts.org/)
+
+Presented [Tarry/Romans](https://youtu.be/Qu-vIh0rPok) at the YUCK Performance Art Series
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/EK0FLFtxd-g" title="untitled work for the Ayana Evans and Tsedaye Makonnen variety show at Ortega Y Gasset Projects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+2021:
+
+Created this [untitled video work](https://youtu.be/EK0FLFtxd-g) for Ayana Evans and Tsedaye Makonnen's [VARIETY SHOW](https://www.youtube.com/watch?v=GnJ7ZiIaIc0) through Ortega Y Gassett Projects
+
+Shared a [short solo work](https://youtu.be/S1ykRSuG0XI) for the [Out of An Abundance of Caution Festival](https://www.twitch.tv/outofcaution) 
+
+Facilitated [WHAT TO DO WITH A BAD IDEA](https://www.theoperatingsystem.org/liminal-lab/badideas_doingandundoing_sp21) with the [Undoing & Doing Social Practice Collective](https://lorenebouboushian.org/projects/UNDOINGANDDOING)
+
+Composed and performed songs with noise band [Shocks N Struts](https://www.youtube.com/watch?v=sUGI1x6HDWQ&list=PLii8WySecfrPJ0vvoRuGZ6p4GTjTQv4yf)
+
 <div class="center"><iframe width="610" height="381" src="https://www.youtube.com/embed/z-SUKTjUpnk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 2020:
