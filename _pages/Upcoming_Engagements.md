@@ -5,22 +5,34 @@ position: 6
 ---
 
 # RECENT ENGAGEMENTS
-
+<div class="center">
 <iframe width="640" height="360" src="https://www.youtube.com/embed/RJhct99BfL0" title="ROCK TOP at the Pleiades Series, Elastic Arts, Chicago - Sept 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+</div>
+  
 2022:
-
+<div class="center">
 Created [this short video](https://youtu.be/xzd1H1-rpAU) for "The Red Room in Your Room" Online Series through the [High Zero Foundation](http://highzerofoundation.org/)
+</div>
 
+<div class="center">
 Shared [A Meditation on Desire](https://youtu.be/xdAs9rj5kaI) at No Nation Art Lab
+</div>
 
+<div class="center">
 Taught the [Growing a New Self](https://www.queerspaces.net/sign-up-s1-workshop-one) queer somatics workshop at Svetova 1 through the Queer Spaces Network in Prague
+</div>
 
+<div class="center">
 Shared the [performance](https://youtu.be/6tvAbBrit1w) and [installation](https://youtu.be/3xGOi_OwCUA) work "the weary anechoic chamber," at [DOMIE](http://domie.pl/) in Poznan, Poland
+</div>
 
+<div class="center">
 Presented [ROCK TOP](https://youtu.be/RJhct99BfL0) at [Elastic Arts](https://elasticarts.org/)
+</div>
 
+<div class="center">
 Presented [Tarry/Romans](https://youtu.be/Qu-vIh0rPok) at the YUCK Performance Art Series
+</div>
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/EK0FLFtxd-g" title="untitled work for the Ayana Evans and Tsedaye Makonnen variety show at Ortega Y Gasset Projects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
