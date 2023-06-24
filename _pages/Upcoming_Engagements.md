@@ -6,7 +6,7 @@ position: 6
 
 # RECENT ENGAGEMENTS
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/RJhct99BfL0" title="ROCK TOP at the Pleiades Series, Elastic Arts, Chicago - Sept 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="center"><iframe width="640" height="360" src="https://www.youtube.com/embed/RJhct99BfL0" title="ROCK TOP at the Pleiades Series, Elastic Arts, Chicago - Sept 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
   
 2022:
@@ -22,8 +22,8 @@ Presented [ROCK TOP](https://youtu.be/RJhct99BfL0) at [Elastic Arts](https://ela
 
 Presented [Tarry/Romans](https://youtu.be/Qu-vIh0rPok) at the YUCK Performance Art Series
 
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/EK0FLFtxd-g" title="untitled work for the Ayana Evans and Tsedaye Makonnen variety show at Ortega Y Gasset Projects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="center">
+<iframe width="640" height="360" src="https://www.youtube.com/embed/EK0FLFtxd-g" title="untitled work for the Ayana Evans and Tsedaye Makonnen variety show at Ortega Y Gasset Projects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 2021:
 
