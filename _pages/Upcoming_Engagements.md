@@ -6,9 +6,43 @@ position: 6
 
 # RECENT ENGAGEMENTS
 
+2025:
+Artist-In-Residence at Ice Cream Acres, Lockhart, TX
+
+Published the poem "Tarry/Romans" in [WUSSY Mag Vol 14](https://www.wussymag.com/shop/p/preorder-wussy-vol14-with-perfume-genius-serpentwithfeet-boy-harsher)
+
+Upcoming Premiere of the performance work "Holding Multiplicity" at [Performatorium/Queer City Cinema](https://www.queercitycinema.ca/2024/), Regina, Canada (September)
+
+<div class="center"><iframe width="685" height="385" src="https://www.youtube.com/embed/AEAtMXvIzj8" title="The Legacy of Enclosure - October 2024 (Chattanooga Noise Night at Stove Works)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+2024:
+Released debut EP under the moniker [Claire's Lobotomy](https://claireslobotomy.bandcamp.com/album/claires-lobotomy) with [Elam Karabush](https://semioteq.com/bio)
+
+Featured Artist in [The Real Dance: Season 2](https://norasharp.com/the-real-dance), co-created by Nora Sharp and Grace Mccants
+
+Premiered the experimental short film [Saint Aporia](https://youtu.be/u0LjkHIVQCU) for Stove Works' Red Dot Gala
+
+Premiered the performance work [The Legacy of Enclosure](https://www.youtube.com/watch?v=AEAtMXvIzj8) at Chattanooga Noise Night
+
+Facilitated RESIDE/DESIRE/ENLIVEN workshop and supported the Artist Opportunities professional develoopment workshop at Stove Works as an Artist-In-Residence 
+
+Participated in the [MoveMove Collaborative Performance](https://vimeo.com/1037615936?share=copy) and facilitated a workshop through the Collaborative's annual residency
+
+Composed for and performed with [LEGS Noise Rock Band](https://neutralarchiveunreleased.bandcamp.com/album/upset-about-stuff-demo-2024); curated final performance featuring Sara Zalek/Tina Lefauve/Ruby Que, Meenakshi, Melon Sprout, Barbiefoot
+
+Co-Conceived and Performed in [ellen o "orbs" music video](https://www.youtube.com/watch?v=QEVHbBa7vH0), directed by [Glam Hag](https://www.glamhag.com/about)
+
+<div class="center"><iframe width="685" height="385" src="https://www.youtube.com/embed/X12pFS1pIPQ" title="plaster on a smile til the moment passes at yuck playground social july 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+2023:
+Curated an evening of performance art and poetry featuring Noah Ortega, Noa Micaela Fields, Jourdain Barton, Aza Greenlee, and Mallory Qiu at No Nation Art Lab
+
+Performed [Plaster on a Smile Til the Moment Passes](https://www.youtube.com/watch?v=X12pFS1pIPQ) at YUCK Performance Art Series
+
+Performed Tell Me Something I Don't Know at Relative Intensity Noise Series, Elastic Arts
+
 <div class="center"><iframe width="640" height="360" src="https://www.youtube.com/embed/RJhct99BfL0" title="ROCK TOP at the Pleiades Series, Elastic Arts, Chicago - Sept 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
-  
 2022:
 Created [this short video](https://youtu.be/xzd1H1-rpAU) for "The Red Room in Your Room" Online Series through the [High Zero Foundation](http://highzerofoundation.org/)
 
@@ -48,43 +82,6 @@ Performed [sonant and surd: a bedroom livestream](https://www.youtube.com/watch?
 Participated in the [Freedom From/Freedom To Series](https://elasticarts.org/event/freedom-from-and-freedom-to-night-1/).
 
 <div class="center"><iframe width="677" height="381" src="https://www.youtube.com/embed/6g3fLRFUNo0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-2019:
-
-Performed in the [Sweet Maria Monument](http://www.platform-mag.com/art/sweet-maria-monument.html) at the [Kochi-Muziris Biennale](http://www.kochimuzirisbiennale.org/).
-
-Performed at [The Fuse Factory's](http://thefusefactory.org/about-us/) Frequency Friday Series.
-
-Held a residency at [Three Phase Center](https://www.threephasecenter.com/) with the [UNDOING AND DOING Collective](https://www.youtube.com/watch?v=Pf_F_fw_lu4) April 12-14, with a culminating performance at the [Center for Performance Research](http://www.cprnyc.org/).
-
-Held a residency through Santa Fe Art Institute's [Truth and Reconciliation Residency Program](https://sfai.org/truth-reconciliation/), created an installation called [Feeling Stewardship](https://lorenebouboushian.org/projects/Feeling_Stewardship) and facilitated [The Undoing workshop](https://sfai.org/event/undoing-a-workshop-lorene-bouboushian/).
-
-Participated in the [Mount Tremper Arts Watershed Residency](http://www.mounttremperarts.org/MovementResearch), with culminating performance of [Aporetic Patrimony](https://www.youtube.com/watch?v=pF8IJaurUnk&t=132s).
-
-Performed in the [Interrobang: New Works Festival](https://www.facebook.com/InterrobangNewWorks/).
-
-Curated and hosted an interdisciplinary performance evening featuring [Jamondria Harris](https://meroitic.bandcamp.com/) at [Vital Joint](http://titlepoint.org/vital-joint/). 
-
-Held a residency at [Sub Rosa Space](https://www.subrosaspace.net/about-us) in Athens Greece. Taught the Undoing Workshop and performed an updated version of [Aporetic Patrimony](https://www.youtube.com/watch?v=ip2zvgwsLS8&t=1216s).
-
-Performed [I Am Honored](https://youtu.be/6g3fLRFUNo0?t=30) at DanceH0l0.
-
-<div class="center"><iframe width="677" height="381" src="https://www.youtube.com/embed/qFOgKp1t4Us" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-2018, NYC:
-
-Participated in the Long Table discussion, [White on White(ness) on White Box](https://gibneydance.org/event/long-table-white-on-whiteness/) at Gibney Dance. 
-
-Performed with members of the social practice collective I facilitate, [UNDOING AND DOING](https://movementresearch.org/people/lorene-bouboushian-1), as part of the [Civic Reflex Platform](https://estherneff.wordpress.com/2018/04/13/civic-reflex-reflejo-civico/).
-
-Performed at the 92nd St Y Fridays at Noon Series with Jill Sigman/thinkdance.
-
-Performed at the Panoply Performance Lab closing festival8.
-
-Hosted experimental performance showcase at The Glove, featuring performance artists ASABOVESOBELOW, poet Amanda Salane, and musicians ellen o and Crystal Penalosa.
-
-Collaboratively facilitated the Studies Project [CLASS ENTWINES](https://movementresearch.org/event/9115). 
-
 <div class="center">
   Please email lorenesite at gmail dot com to be added to the mailing list for future engagements!
 </div>
