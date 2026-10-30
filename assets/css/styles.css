@@ -60,7 +60,8 @@ iframe {
 }
 
 .underconstruction {
-  backround-image: url("lorenebouboushian.org/assets/images/IMG_7299_lichen.jpg")
+  backround-image: url("lorenebouboushian.org/assets/images/IMG_7299_lichen.jpg");
+  padding-top:40VH;
 }
 
 
