@@ -59,6 +59,11 @@ iframe {
   display: block;
 }
 
+.underconstruction {
+  backround-image: url("lorenebouboushian.org/assets/images/IMG_7299_lichen.jpg")
+}
+
+
 @media (max-width: 600px) {
   .page p {
     padding: 0; 
